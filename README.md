@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/Version-21.09.250.23-blue.svg?longCache=true&style=flat-square"
       alt="21.09.250.23" />
  <div align="center">
-  <!-- Update -->
-    <img src="https://img.shields.io/badge/Version-21.09.250.23-blue.svg?longCache=true&style=flat-square"
-      alt="21.09.250.23" />
+   
   This is a public collection of domains that anyone can help to expand.  
 I am mainly concerned with such lists, which do not yet exist or are very rare.  
 
