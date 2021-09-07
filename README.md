@@ -6,8 +6,8 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-21.09.250.23-blue.svg?longCache=true&style=flat-square"
-      alt="21.09.250.23" />
+    <img src="https://img.shields.io/badge/Update-Every%20Monthly-orange.svg"
+      alt="Every Monthly" />
  <div align="center">
    
   This is a public collection of domains that anyone can help to expand.  
