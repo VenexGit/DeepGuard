@@ -1,7 +1,7 @@
 ![Cover](1.svg)
 
 <div align="center">
-  <h1> HoliBlock - Blocks Ads ⛔ </h1>
+  <h1> HoliBlock - Blocks Ads </h1>
 </div>
  <div align="center">
   
