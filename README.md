@@ -45,5 +45,5 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
 
 ## License
 
-Content of the GoodbyeAds is licensed under a [MIT License](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE).
+Content of the HoliBlock is licensed under a [MIT License](https://github.com/VenexGit/HoliBlock/blob/main/LICENSE).
 
