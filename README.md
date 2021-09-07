@@ -43,3 +43,7 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
 
+## License
+
+Content of the GoodbyeAds is licensed under a [MIT License](https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE).
+
