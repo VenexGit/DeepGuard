@@ -8,7 +8,7 @@
  <a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
 <a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Sep 09, 2021-orange.svg"></a>
 <a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Officiel-scarlet.svg"></a>
-<a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
+<a href="https://github.com/VenexGit/HoliBlock/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
   
 The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
 
