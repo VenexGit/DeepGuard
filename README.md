@@ -1,4 +1,4 @@
-![Cover](https://energized.pro/assets/images/block_cover.svg)
+![Cover](1.svg)
 
 <div align="center">
   <h1> HoliBlock - Blocks Ads ⛔ </h1>
