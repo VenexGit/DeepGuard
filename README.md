@@ -1,7 +1,7 @@
 ![Cover](https://energized.pro/assets/images/block_cover.svg)
 
 <div align="center">
-  <h1>Energized Protection - block ⚡</h1>
+  <h1>HoliBlock - ❤️</h1>
 </div>
 
 <div align="center">
