@@ -7,9 +7,9 @@ If you have problems with any of these services, you are welcome to open an issu
 
 | List name | Domains Blocked | Size | Link |
 | :----: | :----: | :----: | :----: |
-| Hosts TXT	 | [Link](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt) | 3.5 Million | 200 Mb |
-| Domain List	 | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 7.4 Million | 200 Mb |
-| DNSMasq	 | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 7.4 Million | 200 Mb |
-| Adguard	 | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 7.4 Million | 200 Mb |
-| 0.0.0.0	 | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 7.4 Million | 200 Mb |
-| 127.0.0.1	 | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 7.4 Million | 200 Mb |
+| Hosts TXT	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt) |
+| Domain List	| [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 
+| DNSMasq	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
+| Adguard	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
+| 0.0.0.0	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
+| 127.0.0.1	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
