@@ -1,7 +1,7 @@
 ![Cover](https://energized.pro/assets/images/block_cover.svg)
 
 <div align="center">
-  <h1>HoliBlock - ( Blocks - Ads - Trackers - Trojans - Malware ) ❤️</h1>
+  <h1> HoliBlock - Blocks Ads ⛔ </h1>
 </div>
 
 <div align="center">
