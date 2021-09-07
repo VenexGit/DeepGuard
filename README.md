@@ -33,9 +33,6 @@ Basic info about all GoodbyeAds packs.
 |:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
 GoodbyeAds | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
 GoodbyeAds YouTube Adblock | Mobile Phones, Computers, Smart Tv | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
-GoodbyeAds Samsung Adblock | Samsung Mobile/Smart Tv | 83 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
-GoodbyeAds LeEco AdBlock | LeEco Device | 110 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) |
-GoodbyeAds Spotify AdBlock | Any Device | 3500+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt) |
 
 ## Supported Adblockers
 
