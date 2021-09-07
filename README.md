@@ -52,4 +52,4 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
    
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
-<a href="https://paypal.me/jerryn70" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/Paypal.png"></a>
+<a href="https://paypal.me/jerryn70" target="_blank"><img width="200" height="100" src="https://i2.wp.com/danabalicki.com/wp-content/uploads/2016/06/paypal-button-blue.png?ssl=1"></a>
