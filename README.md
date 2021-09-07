@@ -1,5 +1,22 @@
 ![Cover](https://energized.pro/assets/images/block_cover.svg)
 
+<div align="center">
+  <h1>Energized Protection - block ⚡</h1>
+</div>
+
+<div align="center">
+  <!-- Version -->
+    <img src="https://img.shields.io/badge/Version-21.09.250.23-blue.svg?longCache=true&style=flat-square"
+      alt="21.09.250.23" />
+ 
+<div align="center">
+  <!-- License -->
+  <a href="https://github.com/EnergizedProtection/block/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square"
+      alt="Wiz" />
+  </a>
+</div>
+
 This is a public collection of domains that anyone can help to expand.  
 I am mainly concerned with such lists, which do not yet exist or are very rare.  
 
