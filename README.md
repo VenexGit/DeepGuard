@@ -20,7 +20,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 </tr>
 </table>
 
-## Hosts Lists 🔻
+## 🔻 Hosts Lists 🔻
 
 Basic info about all HoliBlock packs.
 
