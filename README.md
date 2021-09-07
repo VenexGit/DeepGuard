@@ -42,7 +42,7 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
 ***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
-
+  
 ## License
 
 Content of the HoliBlock is licensed under a [MIT License](https://github.com/VenexGit/HoliBlock/blob/main/LICENSE).
