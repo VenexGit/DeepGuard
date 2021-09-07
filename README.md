@@ -13,7 +13,9 @@ If you have problems with any of these services, you are welcome to open an issu
 </tr>
 </table>
 
-### Packs
+## Packs
+
+Basic info about all Energized Protection packs.
 
 | List name | Domains Blocked | Size | Link |
 | :----: | :----: | :----: | :----: |
