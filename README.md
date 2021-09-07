@@ -30,7 +30,7 @@ If you have problems with any of these services, you are welcome to open an issu
 Basic info about all GoodbyeAds packs.
 
 | PACK NAME | Description | Supported devices | Entries | Hosts List  | Domain List | Module Mgisk | 
-|:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
+|:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:||:---------:|
 Spark | True lightweight protection. | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
 Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
 
