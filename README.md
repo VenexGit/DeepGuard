@@ -3,19 +3,14 @@
 <div align="center">
   <h1> HoliBlock - Blocks Ads ⛔ </h1>
 </div>
-
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Update-Every%20Monthly-orange.svg"
-      alt="Every Monthly" />
  <div align="center">
-   
-  This is a public collection of domains that anyone can help to expand.  
-I am mainly concerned with such lists, which do not yet exist or are very rare.  
-
-If you have problems with any of these services, you are welcome to open an issue or make changes with a pull request! 
-.
-## Notice 
+  
+ <a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
+<a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Sep 09, 2021-orange.svg"></a>
+<a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Officiel-scarlet.svg"></a>
+<a href="https://github.com/VenexGit/HoliBlock"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
+  
+HoliBlock , a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy, and more. It is updated monthly.
 
 <table>
 <tr>
@@ -48,8 +43,3 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
 
-## Support
-   
-This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
-
-<a href="https://paypal.me/jerryn70" target="_blank"><img width="200" height="100" src="https://i2.wp.com/danabalicki.com/wp-content/uploads/2016/06/paypal-button-blue.png?ssl=1"></a>
