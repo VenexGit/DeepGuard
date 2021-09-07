@@ -29,14 +29,13 @@ If you have problems with any of these services, you are welcome to open an issu
 
 Basic info about all GoodbyeAds packs.
 
-| PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | HOSTS TXT | ADBLOCK FILTER |
+| PACK NAME | Best Use Device | Entries | Hosts List  | Domain List | Module Mgisk | 
 |:---------:|:-------:|:---------:|:--------------:|:---------:|:--------------:|
 GoodbyeAds | Block Ads.Trackers.Analytics.Malware. (Included Xiaomi Adblock & Samsung Adblock list) | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
-GoodbyeAds YouTube Adblock | Special List to block YouTube Ads,Trackers & Analytics. | Mobile Phones, Computers, Smart Tv | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
-GoodbyeAds Xiaomi AdBlock | Special List to Block Xiaomi Ads,Trackers & Analytics. | Xiaomi Device | 276 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt) |
-GoodbyeAds Samsung Adblock | Special List to Block Samsung Ads,Trackers & Analytics. | Samsung Mobile/Smart Tv | 83 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
-GoodbyeAds LeEco AdBlock | Special List to Block LeEco Ads,Trackers & Analytics. | LeEco Device | 110 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) |
-GoodbyeAds Spotify AdBlock | Special List to Block Spotify Ads. | Any Device | 3500+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt) |
+GoodbyeAds YouTube Adblock | Mobile Phones, Computers, Smart Tv | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
+GoodbyeAds Samsung Adblock | Samsung Mobile/Smart Tv | 83 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt) |
+GoodbyeAds LeEco AdBlock | LeEco Device | 110 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-LeEco-Extension.txt) |
+GoodbyeAds Spotify AdBlock | Any Device | 3500+ | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt) |
 
 ## Supported Adblockers
 
