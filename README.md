@@ -22,20 +22,20 @@ HoliBlock , a comprehensive and organized block list to block ads, malware, fake
 
 ## Packs
 
-Basic info about all GoodbyeAds packs.
+Basic info about all HoliBlock packs.
 
 | PACK NAME | Description | Supported devices | Entries | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
-Spark | True lightweight protection. | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) |
-Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt) |
+Spark | True lightweight protection. | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/HoliBlock/master/Hosts/HoliBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/HoliBlock/master/Formats/HoliBlock-AdBlock-Filter.txt) |
+Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/HoliBlock/master/Extension/HoliBlock-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/HoliBlock/master/Formats/HoliBlock-YouTube-AdBlock-Filter.txt) |
 
 ## Supported Adblockers
 
 ***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
-***Android:*** For non-rooted devices, GoodbyeAds can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
+***Android:*** For non-rooted devices, HoliBlock can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
      
-***Android (rooted):*** For rooted device, GoodbyeAds can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
+***Android (rooted):*** For rooted device, HoliBlock can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
      
 ***Linux:*** An open-source host file manager called [`hBlock`](https://github.com/hectorm/hBlock).   
        
