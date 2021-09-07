@@ -49,11 +49,7 @@ Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TX
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
 
 ## Support
-
-Maintaining a quality blocking project takes a lot of time. GoodbyeAds is completely independently funded. We fight for our users. This does mean
-however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving GoodbyeAds rather than dealing with distractions.
-
+   
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
 <a href="https://paypal.me/jerryn70" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/Paypal.png"></a>
-<a href="https://liberapay.com/jerryn70/donate" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/LiberaPay.png"></a>
