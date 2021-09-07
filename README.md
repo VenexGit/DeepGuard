@@ -8,7 +8,7 @@ If you have problems with any of these services, you are welcome to open an issu
 | List name | Domains Blocked | Size | Link |
 | :----: | :----: | :----: | :----: |
 | Hosts TXT	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt) |
-| Domain List	| [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 
+| Domain List	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) | 
 | DNSMasq	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
 | Adguard	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
 | 0.0.0.0	| 3.5 Million | 200 Mb | [Link](https://perflyst.github.io/PiHoleBlocklist/SessionReplay.txt) |
