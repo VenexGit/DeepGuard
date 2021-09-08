@@ -24,7 +24,7 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
-Spark | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
+Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 
 ##  White Lists   🛡
@@ -33,7 +33,7 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Spark | 12k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Basic | 12k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
 
 
