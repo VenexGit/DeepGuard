@@ -1,3 +1,10 @@
+# --------------------------------------------
+# Title: MultiBlock
+# Description: Daily Domains For ( .Com )
+# Format: Domains List
+# Version: 1.1
+# Updated : 2021-09-07
+# --------------------------------------------
 0-likes.com
 0-osoet3o.com
 0001166.com
