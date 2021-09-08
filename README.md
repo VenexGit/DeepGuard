@@ -37,7 +37,7 @@ Spark | 12k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master
 Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
 
 
-## Supported Ad Blockers
+## Supported Ad Blockers 📌
 
 ***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
@@ -49,7 +49,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
        
 ***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
-***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
+***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.❤
   
 ## Domains Zones Packs 🔗
 
@@ -58,7 +58,14 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
 Full | Domain Names for (.com .org .net .us .co) Zones | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 Daily Domains | New Domain Names for (.com) Zone | 135k | [Link Folder](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 
+## Top Level Domain (TLD) 🔗
 
+A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain.
+
+| Pack Name | Description |Lines Counter | Domain List |
+|:---------:|:-----------:|:------------:|:-----------:|
+Top |  | 1.5k | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+All |  | 15.5k | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 
 
 
