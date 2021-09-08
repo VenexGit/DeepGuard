@@ -52,6 +52,8 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ❤
   
 ## Domains Zones Packs 🔗
+  
+  List of active domains . Registered domains database with daily updates.
 
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
