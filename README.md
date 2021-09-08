@@ -62,7 +62,7 @@ Daily Domains | New Domain Names for (.com) Zone | 135k - 07/09/2021 | [Link Fol
 
 A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain.
 
-| Pack Name | Lines Counter | Domain List |
+| Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:-----------:|
 Top | 1.5k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 All | 15.5k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
