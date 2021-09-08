@@ -18,14 +18,24 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 </tr>
 </table>
 
-##  Hosts Lists 
+##  Block Lists ❌
 
-Basic info about all MultiBlock packs.
+Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
 Spark | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
+
+##  White Lists ✔️
+
+Basic info about Block List.
+
+| Pack Name | Lines Counter | Domain List |
+|:---------:|:-------------:|:-----------:|
+Spark | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Unified | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
+
 
 ## Supported Ad Blockers
 
