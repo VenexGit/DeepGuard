@@ -33,8 +33,8 @@ Basic info about Block List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Spark | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Unified | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
+Spark | 12k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
 
 
 ## Supported Ad Blockers
