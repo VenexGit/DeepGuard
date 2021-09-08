@@ -1,6 +1,7 @@
 ![Cover](1.svg)
 
 <span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
 
 <div align="center">
   <h1> HoliBlock - Blocks Ads </h1>
