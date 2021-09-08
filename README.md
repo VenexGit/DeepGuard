@@ -27,7 +27,7 @@ Basic info about all MultiBlock packs.
 Spark | True lightweight protection. | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |
 Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |
 
-## Supported
+## Supported Ad Blockers
 
 ***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
