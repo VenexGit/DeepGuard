@@ -29,7 +29,7 @@ Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubus
 
 ##  White Lists   🛡
 
-Basic info about Block List.
+Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
@@ -51,6 +51,17 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
   
+## Domains Zones Packs 🔗
+
+| Pack Name | Description |Lines Counter | Domain List |
+|:---------:|:-----------:|:------------:|:-----------:|
+Full | Domain Names for (.com .org .net .us .co) Zones | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Daily Domains | New Domain Names for (.com) Zone | 135k | [Link Folder](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+
+
+
+
+
 ## License
 
 Content of the MultiBlock is licensed under a [MIT License](https://github.com/VenexGit/MultiBlock/blob/main/LICENSE).
