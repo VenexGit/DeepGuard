@@ -22,7 +22,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 
 Basic info about all MultiBlock packs.
 
-| PACK NAME | Description | Supported devices | Entries | Hosts List | Domain List | Module Mgisk | 
+| Pack Name | Description | Supported devices | Entries | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
 Spark | True lightweight protection. | Any Device | 199595 | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |
 Unified | Flagship protection with pornware blocking. | Any Device | 97615 | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [FILTER](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |
