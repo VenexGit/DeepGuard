@@ -1,8 +1,4 @@
-![Cover](1.svg)
-
-<span style="color: green"> Some green text </span>
-<font color="green"> Some green text </font>
-
+![Cover](https://o.remove.bg/downloads/1d926a71-6d54-48fc-96ed-bdec10c76087/dl.beatsnoop.com-600px-1631065469-removebg-preview.png )
 <div align="center">
   <h1> HoliBlock - Blocks Ads </h1>
 </div>
