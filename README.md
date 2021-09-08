@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://github.com/VenexGit/HoliBlock" target="_blank"><img width="260" height="240" src="https://api5.iloveimg.com/v1/download/blm235zgzpm40dr804wyzv9c0h6sdltmyxxx3pr42nvtg5A1378w3y69zg3px848shblcn9nxg724A64t637zvllgp7g8kb9npvl80bAm41A5An12xAb2677wcz0rzszv2A3d28908z2f7nknbn6fjg1vstr1pbtrpk04478sg8h5tq7sx6q"></a>
-  <h1> HoliBlock - Blocks Ads </h1>
+  <h1> HoliBlock 👒 </h1>
 </div>
  <div align="center">
   
