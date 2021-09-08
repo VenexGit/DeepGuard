@@ -18,7 +18,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 </tr>
 </table>
 
-##  Block Lists  🚫
+##  Block Lists ​🚫
 
 Basic info about Block List.
 
@@ -51,7 +51,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ❤
   
-## Domains Zones Packs 🔗
+## Domains Zones Packs 🔗​
   
   List of active domains . Registered domains database with daily updates.
 
