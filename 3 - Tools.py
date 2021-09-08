@@ -186,7 +186,7 @@ class Ui_main(object):
         self.mer.setObjectName("mer")
         self.mb1 = QtWidgets.QPushButton('Merge',self.mer)
         
-        self.mb1.setGeometry(QtCore.QRect(sb, hjg(3,4), btwd, ih))
+        self.mb1.setGeometry(QtCore.QRect(sb, hjg(4,3), btwd, ih))
         font = QtGui.QFont()
         font.setFamily("DINOT")
         font.setPointSize(ft)
@@ -194,6 +194,12 @@ class Ui_main(object):
         self.mb1.setStyleSheet("background:rgb(64, 184, 140);\n"
 "")
         self.mb1.setObjectName("rpb1")
+        self.m3 = QtWidgets.QLineEdit(self.mer)
+        self.m3.setGeometry(QtCore.QRect(mwd, hjg(-0.5,0), iw, ih))
+        self.m3.setStyleSheet(f'font-size:{ft}px;')
+        self.m3.setAlignment(QtCore.Qt.AlignCenter)
+        self.m3.setObjectName("rp1")
+        
         self.m1 = QtWidgets.QLineEdit(self.mer)
         self.m1.setGeometry(QtCore.QRect(mwd, hjg(1,0), iw, ih))
         self.m1.setStyleSheet(f'font-size:{ft}px;')
@@ -205,6 +211,12 @@ class Ui_main(object):
         self.m2.setStyleSheet(f'font-size:{ft}px;')
         self.m2.setAlignment(QtCore.Qt.AlignCenter)
         self.m2.setObjectName("rp2")
+
+        self.mcm = QComboBox(self.mer)
+        self.mcm.setGeometry(mwd, hjg(3,2), iw, ih)
+        
+        self.mcm.addItem('Normal')
+        self.mcm.addItem('Add')
         
         
         self.mw1 = QtWidgets.QPushButton('Browse',self.mer)
@@ -225,6 +237,16 @@ class Ui_main(object):
         self.mw2.setStyleSheet("background:rgb(78, 134, 255);\n"
 "color: white;")
         self.mw2.setObjectName("rpw2")
+
+        self.mw3 = QtWidgets.QPushButton('Browse',self.mer)
+        self.mw3.setGeometry(QtCore.QRect(bwd, hjg(-0.5,0), ib, ih))
+        font = QtGui.QFont()
+        font.setFamily("NSimSun")
+        font.setPointSize(ft2)
+        self.mw3.setFont(font)
+        self.mw3.setStyleSheet("background:green;\n"
+"color: white;")
+        self.mw3.setObjectName("rpw2")
         
 
         self.m1.setPlaceholderText("Input Folder")
@@ -301,19 +323,15 @@ class Ui_main(object):
         self.d2.setStyleSheet(f'font-size:{ft}px;')
         self.d2.setAlignment(QtCore.Qt.AlignCenter)
         self.d2.setObjectName("d2")
-        self.d3 = QtWidgets.QLineEdit(self.delete_2)
-        self.d3.setGeometry(QtCore.QRect(mwd, hjg(3,2), iw, ih))
-        self.d3.setAlignment(QtCore.Qt.AlignCenter)
-        self.d3.setStyleSheet(f'font-size:{ft}px;')
-        self.d3.setObjectName("d3")
         self.cmd = QComboBox(self.delete_2)
-        self.cmd.setGeometry(mwd, hjg(4,2), iw, ih)
+        self.cmd.setGeometry(mwd, hjg(3,2), iw, ih)
         self.cmd.addItem('Delete Line')
         self.cmd.addItem('Delete Just')
         self.cmd.addItem('Delete After')
+        self.cmd.addItem('Delete before')
         
         self.db1 = QtWidgets.QPushButton(self.delete_2)
-        self.db1.setGeometry(QtCore.QRect(sb, hjg(5,3), btwd, ih))
+        self.db1.setGeometry(QtCore.QRect(sb, hjg(4,3), btwd, ih))
         font = QtGui.QFont()
         font.setFamily("DINOT")
         font.setPointSize(ft)
@@ -347,7 +365,7 @@ class Ui_main(object):
         self.add.setObjectName("add")
         self.ab1 = QtWidgets.QPushButton('Add',self.add)
         
-        self.ab1.setGeometry(QtCore.QRect(sb, hjg(5,3), btwd, ih))
+        self.ab1.setGeometry(QtCore.QRect(sb, hjg(4,3), btwd, ih))
         font = QtGui.QFont()
         font.setFamily("DINOT")
         font.setPointSize(ft)
@@ -360,11 +378,6 @@ class Ui_main(object):
         self.a1.setStyleSheet(f'font-size:{ft}px;')
         self.a1.setAlignment(QtCore.Qt.AlignCenter)
         self.a1.setObjectName("rp1")
-        self.a4 = QtWidgets.QLineEdit(self.add)
-        self.a4.setGeometry(QtCore.QRect(mwd, hjg(4,2), iw, ih))
-        self.a4.setStyleSheet(f'font-size:{ft}px;')
-        self.a4.setAlignment(QtCore.Qt.AlignCenter)
-        self.a4.setObjectName("rp4")
         self.a2 = QtWidgets.QLineEdit(self.add)
         self.a2.setGeometry(QtCore.QRect(mwd, hjg(2,2), iw, ih))
         self.a2.setStyleSheet(f'font-size:{ft}px;')
@@ -398,7 +411,6 @@ class Ui_main(object):
         self.a1.setPlaceholderText("Folder To Add")
         self.a2.setPlaceholderText("Output Folder")
         self.a3.setPlaceholderText("Text")
-        self.a4.setPlaceholderText("Index")
 
 
         # Split
@@ -500,7 +512,7 @@ class Ui_main(object):
         self.scm.setGeometry(mwd, hjg(3,2), iw, ih)
         
         self.scm.addItem('Normal')
-      #  self.scm.addItem('Reverse')
+        self.scm.addItem('Reverse')
         self.scm.addItem('Len Small')
         self.scm.addItem('Len Big')
         self.sw1 = QtWidgets.QPushButton('Browse',self.srt)
@@ -540,6 +552,10 @@ class Ui_main(object):
         self.rp2.setText('2 - Output Folder')
         self.d2.setText('2 - Output Folder')
         self.m1.setText('1 - Input Folder')
+        self.d1.setText('1 - Input Folder')
+        self.r1.setText('1 - Input Folder')
+        self.rp1.setText('1 - Input Folder')
+        self.a1.setText('1 - Input Folder')
 
         
         # Add Widget Tab
@@ -677,29 +693,47 @@ class Ui_main(object):
                     
                     w2 = open(f'{self.d2.text()}/{c}{file[o:]}','w')
                     l = open('Delete List.txt','r')
-                    for i in w:
+                    l = l.readlines()
+                    
                         
-                        if self.cmd.currentText() == 'Delete Line':
+                    if self.cmd.currentText() == 'Delete Line':
+                        for i in w:
                             for x in l:
-                                t = i.find(x)
-                                if t == -1:
-                                    w2.write(i)
+                                u = False
+                                if i.strip("\n").find(x.strip("\n")) != -1:
+                                    u = True
+                                    i = ""
                                     break
-                        elif self.cmd.currentText() == 'Delete Just':
+                            if u == False:
+                                w2.write(i)
                             
-
+                                
+                    elif self.cmd.currentText() == 'Delete Just':
+                        for i in w:
                             for x in l:
-                                i = i.replace(x, '')
-
+                                i = i.replace(x.strip("\n"), "")
+                            
                             w2.write(i)
                             
                                 
 
-                        elif self.cmd.currentText() == 'Delete After':
+                    elif self.cmd.currentText() == 'Delete After':
+                        for i in w:
                             for x in l:
-                                t = i.find(x)
-                                w2.write(i[:t] + '\n' )
+                                t = i.strip("\n").find(x.strip("\n")) 
+                                if t != -1:
+                                    i = i[:t+len(x)] + "\n"
                             
+                            w2.write(i)
+
+                    elif self.cmd.currentText() == 'Delete before':
+                        for i in w:
+                            for x in l:
+                                t = i.strip("\n").find(x.strip("\n")) 
+                                if t != -1:
+                                    i = i[t:] + "\n"
+                            
+                            w2.write(i)
                             
                                 
                     print(c)
@@ -708,7 +742,7 @@ class Ui_main(object):
                     w.close()
                     w2.close()
 
-                msgbox(f'Text Is Deleted {self.d3.text()}')
+                msgbox(f'Text Is Deleted ')
 
         def add():
             
@@ -725,10 +759,6 @@ class Ui_main(object):
                 ch = 'false'
                 msgwar('Text is Empty ')
 
-            elif self.a4.text() == '':
-                ch = 'false'
-                msgwar('Index is Empty ')
-
            
 
             elif ch == 'true':
@@ -739,10 +769,10 @@ class Ui_main(object):
                     o = file.find('.')
                     
                     w2 = open(f'{self.a2.text()}/{c}{file[o:]}','w')
-                    v = self.a4.text()
+                    v = 0
                    
                     for i in w:
-                        w2.write(i[0:int(v)] + self.a3.text() + i[int(v):])
+                        w2.write(self.a3.text() + i)
 
                     print(c)
                     c+=1
@@ -849,32 +879,46 @@ class Ui_main(object):
             ch = 'true'
             if self.m1.text() == '':
                 ch = 'false'
-                msgwar('File1 is Empty ')
+                return msgwar('File1 is Empty ')
 
             elif self.m2.text() == '':
                 ch = 'false'
-                msgwar('File2 is Empty ')
+                return msgwar('File2 is Empty ')
 
             elif ch == 'true':
-                
-                w2 = open(f'{self.m2.text()}/update.txt','w')
-                
-               
-                print(f'{self.m1.text()}/*.txt')
                 g = glob.glob(f'{self.m1.text()}/*.txt')
-                g = sorted(g)
-                for i in g:
+                if self.mcm.currentText() == 'Add':
+                    if self.m3.text() == '':
+                        return msgwar('field Empty ')
                     
-                    w = open(f'{i}','r')
-                    s = set(w)
-                    for x in s:
+                    a = open(f"{self.m3.text()}", "r")
+                    a = a.readlines()
+                    o = 1
+                    for file in g:
+                        sd = open(f'{file}','r')
+                        f = sd.readlines()
+                        w2 = open(f'{self.m2.text()}/{o}.txt','w')
+                        w2.writelines(a + '\n' + f )
                         
-                        w2.write(x)
+                        
                     
-                    w.close()
+                elif self.mcm.currentText() == 'Normal':
                 
+                    w2 = open(f'{self.m2.text()}/update.txt','w')
+                    
+                    
+                    for i in g:
+                        
+                        w = open(f'{i}','r')
+                        s = set(w)
+                        for x in s:
+                            
+                            w2.write(x)
+                        
+                        w.close()
+                    
 
-                w2.close()
+                    w2.close()
             return msgbox(f'Successful')
 
         def spl():
@@ -1041,6 +1085,7 @@ class Ui_main(object):
 
         self.mw1.clicked.connect(lambda:self.browse2(main,self.m1))
         self.mw2.clicked.connect(lambda:self.browse2(main,self.m2))
+        self.mw3.clicked.connect(lambda:self.browse(main,self.m3))
 
         self.spw1.clicked.connect(lambda:self.browse(main,self.sp1))
         self.spw2.clicked.connect(lambda:self.browse2(main,self.sp2))
@@ -1120,7 +1165,6 @@ class Ui_main(object):
         
         self.d1.setPlaceholderText(_translate("main", "Folder To Delete"))
         self.d2.setPlaceholderText(_translate("main", "Output Folder"))
-        self.d3.setPlaceholderText(_translate("main", "Delete What"))
         self.db1.setText(_translate("main", "Delete"))
         self.dw2.setText(_translate("main", "Browse"))
         self.dw1.setText(_translate("main", "Browse"))
