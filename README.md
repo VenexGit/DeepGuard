@@ -18,7 +18,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 </tr>
 </table>
 
-##  Block Lists   ❌
+##  Block Lists  🚫
 
 Basic info about Block List.
 
@@ -27,7 +27,7 @@ Basic info about Block List.
 Spark | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 
-##  White Lists   ✔️
+##  White Lists   🛡
 
 Basic info about Block List.
 
