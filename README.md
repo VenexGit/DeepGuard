@@ -64,8 +64,8 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Top | 1.5k | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-All | 15.5k | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Top | 1.5k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+All | 15.5k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
 
 
 
