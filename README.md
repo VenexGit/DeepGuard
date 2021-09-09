@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
-Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
-Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-YouTube-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
+Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt?token=AUSF6POIYR4HNVLHXYEHZQDBHJFIE)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
+Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt?token=AUSF6PJLQKLK4IJNP3FANV3BHJFPGl) |
 
 ##  White Lists   🛡
 
@@ -33,7 +33,7 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt?token=AUSF6PLB63OWCR7M6RA3NATBHJBEW)  |
+Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt?token=AUSF6POIYR4HNVLHXYEHZQDBHJFIE) |
 Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt?token=AUSF6PPMY2ZXENGVN2E3XXLBHJBIA) |
 
 
@@ -50,7 +50,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
 ***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ❤
-  
+  P
 ## Domains Zones Packs 🔗​
   
   List of active domains . Registered domains database with daily updates.
@@ -66,8 +66,8 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:-----------:|
-Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt?token=AUSF6PMYDGCNSBNSG67OWS3BHJA5Y)  |
-All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt?token=AUSF6PK4I2Q6HQQFKLZE3JTBHJAYU)  |
+Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt?token=AUSF6PIRSYZSS57YFSWAWWDBHJGA6)  |
+All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt?token=AUSF6PKHT52KBOCY26JGNK3BHJGMA)  |
 
 
 
