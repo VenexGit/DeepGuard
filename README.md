@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
-Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[LINK](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
-Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt) |
+Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
+Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) |
 
 ##  White Lists   🛡
 
