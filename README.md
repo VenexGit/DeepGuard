@@ -23,7 +23,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
-|:---------:|:-----------:|:-----------------:|:-------:|:----------:|:-----------:|:------------:|
+|:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
 Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
 Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) |
 
@@ -50,7 +50,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
 ***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ❤
-  P
+
 ## Domains Zones Packs 🔗​
   
   List of active domains . Registered domains database with daily updates.
@@ -65,7 +65,7 @@ Daily Domains | New Domain Names for (.com) Zone | 145k - 09/09/2021 | [Link Fol
 A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain.
 
 | Pack Name | Lines Counter | TLD List |
-|:---------:|:-------------:|:-----------:|
+|:---------:|:-------------:|:--------:|
 Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
 All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
