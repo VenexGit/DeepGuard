@@ -1,13 +1,9 @@
 # --------------------------------------------
-# Title: MultiBlock
+# Title: MultiBlock - White List
 # Description: White List Pack (Basic)
 # Format: Domains List
 # Version: 1.1
 # --------------------------------------------
-a.akamaihd.net
-cdn.eporner.com
-ssl.mzstatic.com
-ttcdn-tos.pstatp.com
 0-100.abseits.ski
 0-100.burst.wickedmine.com
 0-109.vk.com
@@ -2240,11 +2236,11 @@ ttcdn-tos.pstatp.com
 99hucfypkq.com
 99miners.com
 99sites.biz
-9anime.to
 9a24a1b3dcd5f4.com
 9ad7dcc6613a3865f.com
 9anime.at
 9anime.pw
+9anime.to
 9anime.to
 9apps.com
 9b13c1c151f9664a73.com
@@ -2299,116 +2295,6 @@ ttcdn-tos.pstatp.com
 9v8kxvfvw.com
 9vds.ru
 9xr71dp.btcguild.com
-ahcdn.com
-aliexpress.com
-amazon.com
-audioscrobbler.com
-battle.net
-bethesda.net
-bild.de
-bilibili.com
-cm01-fra.cm.steampowered.com
-cm01-lux.cm.steampowered.com
-cm02-fra.cm.steampowered.com
-cm02-lon.cm.steampowered.com
-cm02-lux.cm.steampowered.com
-cm03-fra.cm.steampowered.com
-cm03-lon.cm.steampowered.com
-cm04-sto.cm.steampowered.com
-cm05-iad.cm.steampowered.com
-cnbc.com
-chefkoch.de
-coupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.com
-db5sch101101523.wns.windows.com
-db5sch101110315.wns.windows.com
-db5sch101110345.wns.windows.com
-db5sch101110441.wns.windows.com
-db5sch101110627.wns.windows.com
-db5sch103090616.wns.windows.com
-db5sch103091311.wns.windows.com
-db5sch103092608.wns.windows.com
-db5sch103101705.wns.windows.com
-db5sch103102009.wns.windows.com
-db5sch103102311.wns.windows.com
-db6sch102090203.wns.windows.com
-db6sch102090318.wns.windows.com
-db6sch102090504.wns.windows.com
-db6sch102090513.wns.windows.com
-db6sch102090519.wns.windows.com
-db6sch102091011.wns.windows.com
-dataplicity.com
-desired.de
-drift.com
-eu.depot.battle.net
-embedly.com
-eurogamer.de
-europa.eu
-ezoic.com
-fanatical.com
-focus.de
-gearbest.com
-giga-abs.de
-giphy.com
-globalsign.net
-gog.com
-golem.de
-gravatar.com
-hackmd.io
-hostsfile.org
-i-ring.msedge.net
-ichkoche.at
-ipify.org
-jackbox.tv
-jsdelivr.net
-jwpcdn.com
-jwpltx.com
-kaltura.com
-keybase.io
-kinguin.net
-kotaku.com
-kugou.com
-ly.com
-letsencrypt.org
-livepipe.net
-mcast.net
-meinprospekt.de
-merkur.de
-mgid.com
-mycliplister.com
-naver.com
-nenuwanmastaa1.akamaized.net
-no-ip.com
-onedrive-collection.device.mobileengagement.windows.net
-pcmag.com
-placehold.it
-pluto.tv
-qq.com
-rleve.de
-refersion.com
-rlje.net
-shopify.com
-sourceforge.net
-spiegel.de
-spieletipps.de
-steamgifts.com
-stripe.com
-t-online.de
-tagesspiegel.de
-techpowerup.com
-ted.com
-thesun.co.uk
-themoviedb.com
-thetvdb.com
-times.com
-trovo.live
-vk.com
-vmware.com
-voxmedia.com
-vultr.com
-wp.com
-whatsapp.net
-wistia.com
-yimg.jp
 _dnsaddr.bootstrap.libp2p.io
 _dnsaddr.ipfs.lubar.me
 _http._tcp.archive.raspberrypi.org
@@ -2435,6 +2321,7 @@ a.52hash.com
 a.6d47c1118927cf53ba9654931df80e8d.com
 a.abseits.ski
 a.adwolf.ru
+a.akamaihd.net
 a.akamaihd.net
 a.apkpure.com
 a.applovin.com
@@ -4659,6 +4546,7 @@ ahash.com
 ahash.io
 ahash.ru
 ahcdn.com
+ahcdn.com
 ahd.ruten.com.tw
 ahdilem.info
 ahfmyeuwlhp.bid
@@ -5050,6 +4938,7 @@ alicenakide.triplemining.com
 alidnquxirv.bid
 alidtd.com
 aliexpress-internet.ru
+aliexpress.com
 aliexpress.com
 aliexpress.ru
 aliexpressforyou.ru
@@ -5466,6 +5355,7 @@ amazon.codes
 amazon.coffee
 amazon.college
 amazon.cologne
+amazon.com
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -8527,6 +8417,7 @@ audiolifefestival.com
 audiolifefestival.fr
 audionews.org
 audioscrobbler.com
+audioscrobbler.com
 audiost.ru
 audiostream.com
 audit.quantcast.mgr.consensu.org
@@ -9659,6 +9550,7 @@ batch.ts.tradedoubler.com
 batigfkcbwpb.com
 batterlis.ru
 battle.net
+battle.net
 battlefield.com
 battleforthenet.com
 battlelog.battlefield.com
@@ -10087,6 +9979,7 @@ betclic.com
 betfair.com
 betfaq.ru
 bethesda.net
+bethesda.net
 bethmannbank.de
 betigo.work
 betimogolef.com
@@ -10311,11 +10204,13 @@ bikuetrh.com
 bil.com
 bilation.com
 bild.de
+bild.de
 bilder-upload.eu
 bilder.bild.de
 bilderfest.ru
 biliapi.net
 bilibili.co
+bilibili.com
 bilibili.com
 bilibili.tv
 biliqpvehf.com
@@ -12655,6 +12550,7 @@ cdn.embed.ly
 cdn.embedly.com
 cdn.engine.phn.doublepimp.com
 cdn.eporner.com
+cdn.eporner.com
 cdn.eu.odilo.io
 cdn.fatsharkgames.se
 cdn.fbsbx.com
@@ -13381,6 +13277,7 @@ cheerful.com
 cheezburger.com
 chef.net
 cheff77.info
+chefkoch.de
 chefrubio.it
 chefs-plate.sjv.io
 chegg.com
@@ -14146,9 +14043,18 @@ cm.adform.net
 cm.gog.com
 cm.miaozhen.atm.youku.com
 cm.phncdn.com
+cm01-fra.cm.steampowered.com
 cm01-lax.cm.steampowered.com
 cm01-lon.cm.steampowered.com
+cm01-lux.cm.steampowered.com
+cm02-fra.cm.steampowered.com
 cm02-iad.cm.steampowered.com
+cm02-lon.cm.steampowered.com
+cm02-lux.cm.steampowered.com
+cm03-fra.cm.steampowered.com
+cm03-lon.cm.steampowered.com
+cm04-sto.cm.steampowered.com
+cm05-iad.cm.steampowered.com
 cm1-ams1.cm.steampowered.com
 cm1-dfw1.cm.steampowered.com
 cm1-fra1.cm.steampowered.com
@@ -14235,6 +14141,7 @@ cname.tradepub.com
 cnamerutor.ru
 cnb.cnews.ru
 cnb.com
+cnbc.com
 cnbc.com
 cnbcindonesia.com
 cnbeta.com
@@ -15021,6 +14928,7 @@ couponbar.coupons.com
 couponbug.com
 couponcp-a.akamaihd.net
 coupondunia.go2cloud.org
+coupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.com
 coupons.com
 couponxoo.com
 course.elementsofai.com
@@ -16351,6 +16259,7 @@ datalab.naver.com
 datamind.ru
 datamixer-pa.googleapis.com
 dataplicity.com
+dataplicity.com
 datapoints.coinmarketcap.com
 datariver.ru
 datarouter-prod.ak.epicgames.com
@@ -16411,7 +16320,24 @@ db5.settings.data.microsoft.com
 db5.settings.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 db52cc91beabf7e8.com
+db5sch101101523.wns.windows.com
+db5sch101110315.wns.windows.com
+db5sch101110345.wns.windows.com
+db5sch101110441.wns.windows.com
+db5sch101110627.wns.windows.com
+db5sch103090616.wns.windows.com
+db5sch103091311.wns.windows.com
+db5sch103092608.wns.windows.com
+db5sch103101705.wns.windows.com
+db5sch103102009.wns.windows.com
+db5sch103102311.wns.windows.com
+db6sch102090203.wns.windows.com
+db6sch102090318.wns.windows.com
+db6sch102090504.wns.windows.com
+db6sch102090513.wns.windows.com
+db6sch102090519.wns.windows.com
 db6sch102090911.wns.windows.com
+db6sch102091011.wns.windows.com
 db6sch102091205.wns.windows.com
 db8a41d81b8dfe41de2.com
 dbam.dashbida.com
@@ -16769,6 +16695,7 @@ design.www.huffingtonpost.com
 designedy.com
 desilota.com
 desipearl.com
+desired.de
 desjardins.com
 desk.cmix.org
 deskmail.com
@@ -18028,6 +17955,7 @@ drfxtg.ga
 drh.img.digitalriver.com
 drh1.img.digitalriver.com
 dribbble.com
+drift.com
 drift.com
 driftt.com
 drikbeer.com
@@ -19300,6 +19228,7 @@ embed.windy.com
 embed.wistia.com
 embed.xinhuanet.com
 embedly.com
+embedly.com
 embedwistia-a.akamaihd.net
 emboba.info
 embraceablemidpointcinnabar.com
@@ -19898,6 +19827,7 @@ eu.cdn.blizzard.com
 eu.cdn.survey.medallia.com
 eu.client.steamcontent.akadns.net
 eu.community.samsung.com
+eu.depot.battle.net
 eu.kith.com
 eu.launcher.battle.net
 eu.market
@@ -19966,9 +19896,11 @@ eurocitybank-onlinebanking.de
 eurocitybank.ru
 euroclick.com
 eurodir.ru
+eurogamer.de
 eurogamer.net
 euromillionairesystem.me
 euronews.com
+europa.eu
 europa.eu
 europacash.com
 europauniversalis4.com
@@ -20354,6 +20286,7 @@ ezlxnyhbjtqr.com
 ezmail.egine.com
 ezmail.ru
 eznagi.ru
+ezoic.com
 ezoic.net
 ezqldmevi.com
 ezrs.com
@@ -20500,6 +20433,7 @@ fan.twitch.tv
 fanat.kz
 fanat.ua
 fanatical.cdn.prismic.io
+fanatical.com
 fanatical.com
 fanaticalfly.com
 fanboy.co.nz
@@ -21423,6 +21357,7 @@ focalex.com
 focas.jp
 focre.info
 focus.cn
+focus.de
 focus.de
 focus3.stormancer.com
 focusego.info
@@ -22801,6 +22736,7 @@ gear.playstation.com
 gear.sca.samsung.com
 gear.xbox.com
 gearbest.com
+gearbest.com
 gearnews.info
 gearsofwar.net
 gearsofwar.xbox.com
@@ -23174,6 +23110,7 @@ gift.card.auspost
 gift.kakao.com
 gifttree.sjv.io
 giftya.sjv.io
+giga-abs.de
 giga4u.de
 gigamega.ru
 gigamega.su
@@ -23199,6 +23136,7 @@ giojhiimnvwr.com
 giokole.com
 giosany.com
 giotyo.com
+giphy.com
 giphy.com
 giphylee.com
 gipmaxxp.bid
@@ -23401,6 +23339,7 @@ globalnps.aws.nexon.com
 globalpagan.com
 globalping.gotinder.com
 globalsign.com
+globalsign.net
 globalsite.com.br
 globalsnslp.com
 globalsources.com
@@ -23612,6 +23551,7 @@ gofundme.com
 gog-games.com
 gog-statics.com
 gog.com
+gog.com
 gogalaxy.com
 gogavdasjtxn.com
 gogcdn.net
@@ -23651,6 +23591,7 @@ goldline.pro
 goldmail.ru
 goldmoney.com
 goldpuddle.xyz
+golem.de
 golem.de
 golem.network
 golfemail.com
@@ -24161,6 +24102,7 @@ gratisography.com
 gratisweb.com
 graucoay.net
 gravatar.com
+gravatar.com
 gravatr.com
 gravdee.com
 gravity.com
@@ -24652,6 +24594,7 @@ hackerrank.com
 hackerrank.com.edgekey.net
 hackers.com
 hackforums.net
+hackmd.io
 hackr.io
 hackread.com
 hackthissite.org
@@ -25728,6 +25671,7 @@ hosts.ubuntu101.co.za
 hostsfile.mine.nu
 hostsfile.mine.nuhostsfile.orghulu.com
 hostsfile.org
+hostsfile.org
 hot-dances.com
 hot-hits.us
 hot-news-bloggers.ru
@@ -26273,6 +26217,7 @@ i-p.com
 i-pank.krediidipank.ee
 i-pank2.krediidipank.ee
 i-plus.net
+i-ring.msedge.net
 i-traf.net
 i-vengo.com
 i-vtb.by
@@ -26755,6 +26700,7 @@ icheb.ru
 ichecknotifyfriends.info
 ichef-1.bbci.co.uk
 ichef.bbci.co.uk
+ichkoche.at
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 iciba.com
@@ -28463,6 +28409,7 @@ iphonesubmissions.apple.com
 iphwttyqzuhucw.bid
 ipick1.wechat.com
 ipify.org
+ipify.org
 ipinfi.io
 ipinfo.info
 ipinfo.io
@@ -28957,6 +28904,7 @@ jabcreations.com
 jabu.edu.ng
 jacepayment.airasia.com
 jackao.net
+jackbox.tv
 jackettrain.com
 jackieschocolate.sjv.io
 jackjones.com
@@ -29646,6 +29594,7 @@ jsc.tovarro.com
 jscloud.org
 jscode.yavli.com
 jsdelivr.net
+jsdelivr.net
 jseewggtkfrs.com
 jsfeedget.com
 jsfiddle.net
@@ -29792,10 +29741,12 @@ jwjztdbakqqk.com
 jwmnryeoc.com
 jwnlqtdvnm.bid
 jwpcdn.com
+jwpcdn.com
 jwplatform.com
 jwplayer-dualstack.map.fastly.net
 jwplayer.com
 jwplayer.space
+jwpltx.com
 jwpltx.com
 jwpsrv.com
 jwuvfovjzwe.com
@@ -29936,6 +29887,7 @@ kalmloda.com
 kalo.onvid.xyz
 kalpoint.com
 kaltenkirchener-bank.de
+kaltura.com
 kaltura.com
 kaltura.com.edgekey.net
 kaltura.perf.akadns.net
@@ -30139,6 +30091,7 @@ ketqqygdh.com
 key.com
 key.us
 keybase.io
+keybase.io
 keybaseapi.com
 keyboard.naver.com
 keycdn.com
@@ -30316,6 +30269,7 @@ kingoablc.com
 kingpeon.com
 kingpinmedia.net
 kingsoft.com
+kinguin.net
 kinguin.net
 kinhenathow.ru
 kinhintont.com
@@ -30646,6 +30600,7 @@ kot-29.alpha.dashboard.mgid.com
 kot-293.alpha.dashboard.mgid.com
 kot-293.beta.dashboard.mgid.com
 kotaku.com
+kotaku.com
 koten.zone
 kotofotto.ru
 koudai8.com
@@ -30904,6 +30859,7 @@ kubmcyofaeu.com
 kuchebraska.com
 kucoin.com
 kug-74.com
+kugou.com
 kugou.com
 kuhbcpckauwt.bid
 kuhlorflbeq.com
@@ -31539,6 +31495,7 @@ letmelook.net
 letodron.ru
 letsdoarbitrage.com
 letsencrypt.org
+letsencrypt.org
 letsgomets.net
 letsgoshopping.tk
 letshareus.com
@@ -32127,6 +32084,7 @@ livepassdl.conviva.com
 livepeer.org
 liveperson.com
 liveperson.net
+livepipe.net
 liveprivates.com
 livepromotools.com
 livere.com
@@ -32888,6 +32846,7 @@ lxyadcffdpaytd.com
 lxyjnqpbk.bid
 lxymfyptdrast.com
 lxzwknybfvycxr.com
+ly.com
 ly2.ws
 lybmmxah.com
 lycodz.com
@@ -35108,6 +35067,7 @@ mc.corel.com
 mcaf.ee
 mcafee.com
 mcagbtdcwklf.com
+mcast.net
 mcaxqvcu.com
 mcaybfrnrqpmv.com
 mcb.mu
@@ -35578,6 +35538,7 @@ meineserver.com
 meinevolksbank.de
 meinlist.com
 meinooriut3.info
+meinprospekt.de
 meipai.com
 meishichina.com
 meituan.com
@@ -35669,6 +35630,7 @@ merdeka.com
 meried.co
 merkantil.hu
 merkel-loves.me
+merkur.de
 merriam-webster.com
 merrilledge.com
 meryga.ru
@@ -35805,6 +35767,7 @@ mfxxpyhzofbsg.com
 mg6ikpbhco.com
 mgcash.com
 mgcashgate.com
+mgid.com
 mgjoqdmjofl.bid
 mgogo.ru
 mgojnezwuuxyv.com
@@ -37237,6 +37200,7 @@ mycdn.info
 mycdn2.co
 mycity.com
 mycliplister.com
+mycliplister.com
 myclips.twitch.tv
 mycode.prepbytes.com
 myconst.net
@@ -37594,6 +37558,7 @@ navabi-de.sjv.io
 navabiuk.sjv.io
 navaxudoru.com
 naver.com
+naver.com
 naverapp.naver.com
 navercast.naver.com
 navesu.co.uk
@@ -37762,6 +37727,7 @@ nemzdfjnyqy.bid
 nengroup.com
 nenrk.us
 nenter.com
+nenuwanmastaa1.akamaized.net
 neo-neo-xeo.com
 neo.rr.com
 neoban.su
@@ -38501,6 +38467,7 @@ nnztrsuu.com
 no-cache.hubspot.com
 no-intro.dlgsoftware.net
 no-ip.biz
+no-ip.com
 no-ip.com
 no.2.cqcounter.com
 no.wikipedia.com
@@ -39817,6 +39784,7 @@ oneclickmoney.ru
 oneclient.sfx.ms
 onecollector.cloudapp.aria.akadns.net
 onedmp.com
+onedrive-collection.device.mobileengagement.windows.net
 onedrive-collection.device.mobileengagement.windows.net
 onedrive-onerm-events-primary-cus.servicebus.windows.net
 onedrive.com
@@ -41289,6 +41257,7 @@ pci.spotify.com
 pckbizoed.com
 pckhpollpp.bid
 pcmag.com
+pcmag.com
 pcmatic.com
 pcmweb.nl
 pconnections.net
@@ -41907,6 +41876,7 @@ pl.wikipedia.com
 place206.nighter.club
 place412.nighter.club
 placehold.it
+placehold.it
 placeholder.com
 placeholdit.imgix.net
 placeithere.net
@@ -42100,6 +42070,7 @@ plushlikegarnier.com
 plusmail.com.br
 plusone.google.com
 plusvkarmuvam.ru
+pluto.tv
 pluto.tv
 pluwen.com
 plwvwvhudkuv.com
@@ -44074,6 +44045,7 @@ qprfans.com
 qpshvivbqpz.com
 qpttmgdofkkya.bid
 qq.com
+qq.com
 qq937.com
 qqablora.com
 qqapezviufsh.com
@@ -45506,6 +45478,7 @@ referral.ubi.com
 referralargumentationnetwork.info
 referrer.disqus.com
 refersion.com
+refersion.com
 refinery29.com
 reflethenfortoft.info
 reflex.tau.vk.com
@@ -46071,11 +46044,13 @@ rlcdn.com
 rlcg9jtt.ru
 rle.ru
 rleve.de
+rleve.de
 rlex.org
 rlgungosm.com
 rlhdzilsgvwu.bid
 rli.nl
 rljakgkixu.com
+rlje.net
 rllvjujeyeuy.com
 rlogoro.ru
 rlomrjxrpsev.com
@@ -47037,7 +47012,6 @@ s9-1.trafficdeposit.com
 s9.picofile.com
 s9.trafficdeposit.com
 s9vk01jgn.vk.com
-so.2mdn.net
 sa-blacklist.stearns.org
 sa-in-f14.1e100.net
 sa-in-f26.1e100.net
@@ -48445,6 +48419,7 @@ shopee.ph
 shopee.tw
 shopify-app.heatmap.it
 shopify.com
+shopify.com
 shopifycdn.com
 shopifysvc.com
 shopik.tv
@@ -49150,6 +49125,7 @@ snxvrnhe.com
 snyu.com
 snyviza.ru
 so-excited.com
+so.2mdn.net
 so.com
 soadvr.com
 soagitet.net
@@ -49362,6 +49338,7 @@ sounds-resource.com
 source.typekit.com
 sourceforge.io
 sourceforge.mirrorservice.org
+sourceforge.net
 sourceforge.net
 sourdi.com
 sourl.cn
@@ -49737,6 +49714,8 @@ spiderbytes.vimeo.com
 spiderhood.net
 spiegel-de.spiegel.de
 spiegel.de
+spiegel.de
+spieletipps.de
 spieletipps.de
 spigotmc.org
 spillvacation.com
@@ -50105,6 +50084,7 @@ ssl.gpsonextra.net
 ssl.gstatic.com
 ssl.kaptcha.com
 ssl.marfeelcdn.com
+ssl.mzstatic.com
 ssl.mzstatic.com
 ssl.o.webmd.com
 ssl.p.jwpcdn.com
@@ -50718,6 +50698,7 @@ steamcontent.com
 steamdb.info
 steamdir5.gun.qq.com
 steamdir9.gun.qq.com
+steamgifts.com
 steampowered.com
 steamstat.us
 steamstatic.com
@@ -50916,6 +50897,7 @@ strikeadcdn.s3.amazonaws.com
 strikeout.nu
 stringroadway.com
 stripchat.com
+stripe.com
 stripe.com
 stripe.network
 stripecdn.com
@@ -51540,6 +51522,7 @@ t-mobile.ugc.bazaarvoice.com
 t-mobilebankowe.pl
 t-online.at
 t-online.de
+t-online.de
 t-trg.email.adobe.com
 t.9gag.com
 t.appsflyer.com
@@ -51646,6 +51629,7 @@ tagbucket.cc
 tagcade.com
 tagdelivery.com
 tage.playstation.com
+tagesspiegel.de
 tagged.com
 tagger.opecloud.com
 taggify.net
@@ -52027,6 +52011,7 @@ technoratimedia.com
 techotopia.com
 techpointer.com
 techpowerup.com
+techpowerup.com
 techradar.com
 techrepublic.com
 techsco.de
@@ -52046,6 +52031,7 @@ tecklyfe.com
 tecmint.com
 tecontx.com
 tecpic.com.br
+ted.com
 ted.com
 tedcdn.com
 tedlrouwixqq.com
@@ -52499,6 +52485,7 @@ themillionare.net
 themis.yahoo.com
 themoneyes.ru
 themoviedb.com
+themoviedb.com
 thenation.com
 thenelis.pw
 thenetninja.co.uk
@@ -52541,6 +52528,7 @@ thespatialists.com
 thestar.com
 thestreetfighter.com
 thesun.co.uk
+thesun.co.uk
 thetabdot.com
 thetakeout.com
 theteebox.com
@@ -52550,6 +52538,7 @@ thetimes.co.uk
 thetlingheck.pro
 thetracker.org
 thetraderinpajamas.com
+thetvdb.com
 thetvdb.com
 thetvdb.plexapp.com
 theuncal.com
@@ -52770,6 +52759,7 @@ timeform.com
 timein.net
 timeinc.net
 timeline.line.me
+times.com
 timesofindia.indiatimes.com
 timesofmalta.com
 timonnbfad.bid
@@ -53895,6 +53885,7 @@ trophy01.np.community.playstation.net
 tropic88weather.center
 tropicalos.com
 tropicalstorm.com
+trovo.live
 trowel.twitch.tv
 troyhunt.com
 trqbzsxnzxmf.com
@@ -53996,6 +53987,7 @@ tswhwnkcjvxf.com
 tsybqlldfsstw.bid
 tsytomer.ru
 ttarget.ru
+ttcdn-tos.pstatp.com
 ttcdn-tos.pstatp.com
 ttcl.ru
 ttdaxwrryiou.com
@@ -56665,6 +56657,7 @@ vjzqmbcx.com
 vjzttumdetao.com
 vk-traf.ru
 vk.com
+vk.com
 vk.comwww.vk.com
 vk.vk.com
 vk242.ru
@@ -56765,6 +56758,7 @@ vmtaqxsf.bid
 vmtwnkpskok.com
 vmvhmwppcsvd.com
 vmvuptdijjwi.com
+vmware.com
 vmware.com
 vmyvsltb.com
 vmyzwzgggbcp.com
@@ -57082,6 +57076,7 @@ vox-cdn.com
 vox.com
 voxel-firmware.com
 voxmedia.com
+voxmedia.com
 voxnrvzwy.com
 voxucaldgpicqh.com
 voyeurbase.com
@@ -57374,6 +57369,7 @@ vulgiatious.com
 vulging.pro
 vulkan.site
 vulkan1.net
+vultr.com
 vultr.com
 vulture.com
 vumek.club
@@ -58254,6 +58250,7 @@ whatsapp-cdn-shv-01-vie1.fbcdn.net
 whatsapp-cdn-shv-02-sin6.fbcdn.net
 whatsapp.com
 whatsapp.net
+whatsapp.net
 whatsmyip.org
 whattomine.com
 whbfgaspmycyve.com
@@ -58559,6 +58556,7 @@ wishabi.net
 wisoky.biz
 wisozk.link
 wistia.com
+wistia.com
 wistia.net
 wit.ai
 witalfieldt.com
@@ -58837,6 +58835,7 @@ wowway.com
 woxvgdtje.com
 wozltvfxtntaqk.com
 wp.breitbart.com
+wp.com
 wp.com
 wp.kinott.ru
 wp.viber.com
@@ -59143,10 +59142,6 @@ www-ssl.bestbuy.com
 www-support-downloads.sonymobile.com
 www-tc.pbs.org
 www-wp.viber.com
-www.a.akamaihd.net
-www.cdn.eporner.com
-www.ssl.mzstatic.com
-www.ttcdn-tos.pstatp.com
 www.0-100.abseits.ski
 www.0-100.burst.wickedmine.com
 www.0-109.vk.com
@@ -61381,11 +61376,11 @@ www.99e5da34520d.com
 www.99hucfypkq.com
 www.99miners.com
 www.99sites.biz
-www.9anime.to
 www.9a24a1b3dcd5f4.com
 www.9ad7dcc6613a3865f.com
 www.9anime.at
 www.9anime.pw
+www.9anime.to
 www.9anime.to
 www.9apps.com
 www.9b13c1c151f9664a73.com
@@ -61440,116 +61435,6 @@ www.9utwbj08.top
 www.9v8kxvfvw.com
 www.9vds.ru
 www.9xr71dp.btcguild.com
-www.ahcdn.com
-www.aliexpress.com
-www.amazon.com
-www.audioscrobbler.com
-www.battle.net
-www.bethesda.net
-www.bild.de
-www.bilibili.com
-www.cm01-fra.cm.steampowered.com
-www.cm01-lux.cm.steampowered.com
-www.cm02-fra.cm.steampowered.com
-www.cm02-lon.cm.steampowered.com
-www.cm02-lux.cm.steampowered.com
-www.cm03-fra.cm.steampowered.com
-www.cm03-lon.cm.steampowered.com
-www.cm04-sto.cm.steampowered.com
-www.cm05-iad.cm.steampowered.com
-www.cnbc.com
-www.chefkoch.de
-www.coupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.com
-www.db5sch101101523.wns.windows.com
-www.db5sch101110315.wns.windows.com
-www.db5sch101110345.wns.windows.com
-www.db5sch101110441.wns.windows.com
-www.db5sch101110627.wns.windows.com
-www.db5sch103090616.wns.windows.com
-www.db5sch103091311.wns.windows.com
-www.db5sch103092608.wns.windows.com
-www.db5sch103101705.wns.windows.com
-www.db5sch103102009.wns.windows.com
-www.db5sch103102311.wns.windows.com
-www.db6sch102090203.wns.windows.com
-www.db6sch102090318.wns.windows.com
-www.db6sch102090504.wns.windows.com
-www.db6sch102090513.wns.windows.com
-www.db6sch102090519.wns.windows.com
-www.db6sch102091011.wns.windows.com
-www.dataplicity.com
-www.desired.de
-www.drift.com
-www.eu.depot.battle.net
-www.embedly.com
-www.eurogamer.de
-www.europa.eu
-www.ezoic.com
-www.fanatical.com
-www.focus.de
-www.gearbest.com
-www.giga-abs.de
-www.giphy.com
-www.globalsign.net
-www.gog.com
-www.golem.de
-www.gravatar.com
-www.hackmd.io
-www.hostsfile.org
-www.i-ring.msedge.net
-www.ichkoche.at
-www.ipify.org
-www.jackbox.tv
-www.jsdelivr.net
-www.jwpcdn.com
-www.jwpltx.com
-www.kaltura.com
-www.keybase.io
-www.kinguin.net
-www.kotaku.com
-www.kugou.com
-www.ly.com
-www.letsencrypt.org
-www.livepipe.net
-www.mcast.net
-www.meinprospekt.de
-www.merkur.de
-www.mgid.com
-www.mycliplister.com
-www.naver.com
-www.nenuwanmastaa1.akamaized.net
-www.no-ip.com
-www.onedrive-collection.device.mobileengagement.windows.net
-www.pcmag.com
-www.placehold.it
-www.pluto.tv
-www.qq.com
-www.rleve.de
-www.refersion.com
-www.rlje.net
-www.shopify.com
-www.sourceforge.net
-www.spiegel.de
-www.spieletipps.de
-www.steamgifts.com
-www.stripe.com
-www.t-online.de
-www.tagesspiegel.de
-www.techpowerup.com
-www.ted.com
-www.thesun.co.uk
-www.themoviedb.com
-www.thetvdb.com
-www.times.com
-www.trovo.live
-www.vk.com
-www.vmware.com
-www.voxmedia.com
-www.vultr.com
-www.wp.com
-www.whatsapp.net
-www.wistia.com
-www.yimg.jp
 www._dnsaddr.bootstrap.libp2p.io
 www._dnsaddr.ipfs.lubar.me
 www._http._tcp.archive.raspberrypi.org
@@ -61576,6 +61461,7 @@ www.a.52hash.com
 www.a.6d47c1118927cf53ba9654931df80e8d.com
 www.a.abseits.ski
 www.a.adwolf.ru
+www.a.akamaihd.net
 www.a.akamaihd.net
 www.a.apkpure.com
 www.a.applovin.com
@@ -63800,6 +63686,7 @@ www.ahash.com
 www.ahash.io
 www.ahash.ru
 www.ahcdn.com
+www.ahcdn.com
 www.ahd.ruten.com.tw
 www.ahdilem.info
 www.ahfmyeuwlhp.bid
@@ -64191,6 +64078,7 @@ www.alicenakide.triplemining.com
 www.alidnquxirv.bid
 www.alidtd.com
 www.aliexpress-internet.ru
+www.aliexpress.com
 www.aliexpress.com
 www.aliexpress.ru
 www.aliexpressforyou.ru
@@ -64607,6 +64495,7 @@ www.amazon.codes
 www.amazon.coffee
 www.amazon.college
 www.amazon.cologne
+www.amazon.com
 www.amazon.com
 www.amazon.com.au
 www.amazon.com.br
@@ -67668,6 +67557,7 @@ www.audiolifefestival.com
 www.audiolifefestival.fr
 www.audionews.org
 www.audioscrobbler.com
+www.audioscrobbler.com
 www.audiost.ru
 www.audiostream.com
 www.audit.quantcast.mgr.consensu.org
@@ -68801,6 +68691,7 @@ www.batch.ts.tradedoubler.com
 www.batigfkcbwpb.com
 www.batterlis.ru
 www.battle.net
+www.battle.net
 www.battlefield.com
 www.battleforthenet.com
 www.battlelog.battlefield.com
@@ -69229,6 +69120,7 @@ www.betclic.com
 www.betfair.com
 www.betfaq.ru
 www.bethesda.net
+www.bethesda.net
 www.bethmannbank.de
 www.betigo.work
 www.betimogolef.com
@@ -69453,11 +69345,13 @@ www.bikuetrh.com
 www.bil.com
 www.bilation.com
 www.bild.de
+www.bild.de
 www.bilder-upload.eu
 www.bilder.bild.de
 www.bilderfest.ru
 www.biliapi.net
 www.bilibili.co
+www.bilibili.com
 www.bilibili.com
 www.bilibili.tv
 www.biliqpvehf.com
@@ -71798,6 +71692,7 @@ www.cdn.embed.ly
 www.cdn.embedly.com
 www.cdn.engine.phn.doublepimp.com
 www.cdn.eporner.com
+www.cdn.eporner.com
 www.cdn.eu.odilo.io
 www.cdn.fatsharkgames.se
 www.cdn.fbsbx.com
@@ -72524,6 +72419,7 @@ www.cheerful.com
 www.cheezburger.com
 www.chef.net
 www.cheff77.info
+www.chefkoch.de
 www.chefrubio.it
 www.chefs-plate.sjv.io
 www.chegg.com
@@ -73289,9 +73185,18 @@ www.cm.adform.net
 www.cm.gog.com
 www.cm.miaozhen.atm.youku.com
 www.cm.phncdn.com
+www.cm01-fra.cm.steampowered.com
 www.cm01-lax.cm.steampowered.com
 www.cm01-lon.cm.steampowered.com
+www.cm01-lux.cm.steampowered.com
+www.cm02-fra.cm.steampowered.com
 www.cm02-iad.cm.steampowered.com
+www.cm02-lon.cm.steampowered.com
+www.cm02-lux.cm.steampowered.com
+www.cm03-fra.cm.steampowered.com
+www.cm03-lon.cm.steampowered.com
+www.cm04-sto.cm.steampowered.com
+www.cm05-iad.cm.steampowered.com
 www.cm1-ams1.cm.steampowered.com
 www.cm1-dfw1.cm.steampowered.com
 www.cm1-fra1.cm.steampowered.com
@@ -73378,6 +73283,7 @@ www.cname.tradepub.com
 www.cnamerutor.ru
 www.cnb.cnews.ru
 www.cnb.com
+www.cnbc.com
 www.cnbc.com
 www.cnbcindonesia.com
 www.cnbeta.com
@@ -74164,6 +74070,7 @@ www.couponbar.coupons.com
 www.couponbug.com
 www.couponcp-a.akamaihd.net
 www.coupondunia.go2cloud.org
+www.coupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.comcoupongbug.com
 www.coupons.com
 www.couponxoo.com
 www.course.elementsofai.com
@@ -75494,6 +75401,7 @@ www.datalab.naver.com
 www.datamind.ru
 www.datamixer-pa.googleapis.com
 www.dataplicity.com
+www.dataplicity.com
 www.datapoints.coinmarketcap.com
 www.datariver.ru
 www.datarouter-prod.ak.epicgames.com
@@ -75554,7 +75462,24 @@ www.db5.settings.data.microsoft.com
 www.db5.settings.data.microsoft.com.akadns.net
 www.db5.vortex.data.microsoft.com.akadns.net
 www.db52cc91beabf7e8.com
+www.db5sch101101523.wns.windows.com
+www.db5sch101110315.wns.windows.com
+www.db5sch101110345.wns.windows.com
+www.db5sch101110441.wns.windows.com
+www.db5sch101110627.wns.windows.com
+www.db5sch103090616.wns.windows.com
+www.db5sch103091311.wns.windows.com
+www.db5sch103092608.wns.windows.com
+www.db5sch103101705.wns.windows.com
+www.db5sch103102009.wns.windows.com
+www.db5sch103102311.wns.windows.com
+www.db6sch102090203.wns.windows.com
+www.db6sch102090318.wns.windows.com
+www.db6sch102090504.wns.windows.com
+www.db6sch102090513.wns.windows.com
+www.db6sch102090519.wns.windows.com
 www.db6sch102090911.wns.windows.com
+www.db6sch102091011.wns.windows.com
 www.db6sch102091205.wns.windows.com
 www.db8a41d81b8dfe41de2.com
 www.dbam.dashbida.com
@@ -75912,6 +75837,7 @@ www.design.www.huffingtonpost.com
 www.designedy.com
 www.desilota.com
 www.desipearl.com
+www.desired.de
 www.desjardins.com
 www.desk.cmix.org
 www.deskmail.com
@@ -77173,6 +77099,7 @@ www.drfxtg.ga
 www.drh.img.digitalriver.com
 www.drh1.img.digitalriver.com
 www.dribbble.com
+www.drift.com
 www.drift.com
 www.driftt.com
 www.drikbeer.com
@@ -78445,6 +78372,7 @@ www.embed.windy.com
 www.embed.wistia.com
 www.embed.xinhuanet.com
 www.embedly.com
+www.embedly.com
 www.embedwistia-a.akamaihd.net
 www.emboba.info
 www.embraceablemidpointcinnabar.com
@@ -79044,6 +78972,7 @@ www.eu.cdn.blizzard.com
 www.eu.cdn.survey.medallia.com
 www.eu.client.steamcontent.akadns.net
 www.eu.community.samsung.com
+www.eu.depot.battle.net
 www.eu.kith.com
 www.eu.launcher.battle.net
 www.eu.market
@@ -79112,9 +79041,11 @@ www.eurocitybank-onlinebanking.de
 www.eurocitybank.ru
 www.euroclick.com
 www.eurodir.ru
+www.eurogamer.de
 www.eurogamer.net
 www.euromillionairesystem.me
 www.euronews.com
+www.europa.eu
 www.europa.eu
 www.europacash.com
 www.europauniversalis4.com
@@ -79500,6 +79431,7 @@ www.ezlxnyhbjtqr.com
 www.ezmail.egine.com
 www.ezmail.ru
 www.eznagi.ru
+www.ezoic.com
 www.ezoic.net
 www.ezqldmevi.com
 www.ezrs.com
@@ -79646,6 +79578,7 @@ www.fan.twitch.tv
 www.fanat.kz
 www.fanat.ua
 www.fanatical.cdn.prismic.io
+www.fanatical.com
 www.fanatical.com
 www.fanaticalfly.com
 www.fanboy.co.nz
@@ -80570,6 +80503,7 @@ www.focalex.com
 www.focas.jp
 www.focre.info
 www.focus.cn
+www.focus.de
 www.focus.de
 www.focus3.stormancer.com
 www.focusego.info
@@ -81949,6 +81883,7 @@ www.gear.playstation.com
 www.gear.sca.samsung.com
 www.gear.xbox.com
 www.gearbest.com
+www.gearbest.com
 www.gearnews.info
 www.gearsofwar.net
 www.gearsofwar.xbox.com
@@ -82322,6 +82257,7 @@ www.gift.card.auspost
 www.gift.kakao.com
 www.gifttree.sjv.io
 www.giftya.sjv.io
+www.giga-abs.de
 www.giga4u.de
 www.gigamega.ru
 www.gigamega.su
@@ -82347,6 +82283,7 @@ www.giojhiimnvwr.com
 www.giokole.com
 www.giosany.com
 www.giotyo.com
+www.giphy.com
 www.giphy.com
 www.giphylee.com
 www.gipmaxxp.bid
@@ -82549,6 +82486,7 @@ www.globalnps.aws.nexon.com
 www.globalpagan.com
 www.globalping.gotinder.com
 www.globalsign.com
+www.globalsign.net
 www.globalsite.com.br
 www.globalsnslp.com
 www.globalsources.com
@@ -82760,6 +82698,7 @@ www.gofundme.com
 www.gog-games.com
 www.gog-statics.com
 www.gog.com
+www.gog.com
 www.gogalaxy.com
 www.gogavdasjtxn.com
 www.gogcdn.net
@@ -82799,6 +82738,7 @@ www.goldline.pro
 www.goldmail.ru
 www.goldmoney.com
 www.goldpuddle.xyz
+www.golem.de
 www.golem.de
 www.golem.network
 www.golfemail.com
@@ -83310,6 +83250,7 @@ www.gratisography.com
 www.gratisweb.com
 www.graucoay.net
 www.gravatar.com
+www.gravatar.com
 www.gravatr.com
 www.gravdee.com
 www.gravity.com
@@ -83801,6 +83742,7 @@ www.hackerrank.com
 www.hackerrank.com.edgekey.net
 www.hackers.com
 www.hackforums.net
+www.hackmd.io
 www.hackr.io
 www.hackread.com
 www.hackthissite.org
@@ -84878,6 +84820,7 @@ www.hosts.ubuntu101.co.za
 www.hostsfile.mine.nu
 www.hostsfile.mine.nuhostsfile.orghulu.com
 www.hostsfile.org
+www.hostsfile.org
 www.hot-dances.com
 www.hot-hits.us
 www.hot-news-bloggers.ru
@@ -85423,6 +85366,7 @@ www.i-p.com
 www.i-pank.krediidipank.ee
 www.i-pank2.krediidipank.ee
 www.i-plus.net
+www.i-ring.msedge.net
 www.i-traf.net
 www.i-vengo.com
 www.i-vtb.by
@@ -85905,6 +85849,7 @@ www.icheb.ru
 www.ichecknotifyfriends.info
 www.ichef-1.bbci.co.uk
 www.ichef.bbci.co.uk
+www.ichkoche.at
 www.ichnaea-web.netflix.com
 www.ichnaea.netflix.com
 www.iciba.com
@@ -87613,6 +87558,7 @@ www.iphonesubmissions.apple.com
 www.iphwttyqzuhucw.bid
 www.ipick1.wechat.com
 www.ipify.org
+www.ipify.org
 www.ipinfi.io
 www.ipinfo.info
 www.ipinfo.io
@@ -88108,6 +88054,7 @@ www.jabcreations.com
 www.jabu.edu.ng
 www.jacepayment.airasia.com
 www.jackao.net
+www.jackbox.tv
 www.jackettrain.com
 www.jackieschocolate.sjv.io
 www.jackjones.com
@@ -88798,6 +88745,7 @@ www.jsc.tovarro.com
 www.jscloud.org
 www.jscode.yavli.com
 www.jsdelivr.net
+www.jsdelivr.net
 www.jseewggtkfrs.com
 www.jsfeedget.com
 www.jsfiddle.net
@@ -88944,10 +88892,12 @@ www.jwjztdbakqqk.com
 www.jwmnryeoc.com
 www.jwnlqtdvnm.bid
 www.jwpcdn.com
+www.jwpcdn.com
 www.jwplatform.com
 www.jwplayer-dualstack.map.fastly.net
 www.jwplayer.com
 www.jwplayer.space
+www.jwpltx.com
 www.jwpltx.com
 www.jwpsrv.com
 www.jwuvfovjzwe.com
@@ -89088,6 +89038,7 @@ www.kalmloda.com
 www.kalo.onvid.xyz
 www.kalpoint.com
 www.kaltenkirchener-bank.de
+www.kaltura.com
 www.kaltura.com
 www.kaltura.com.edgekey.net
 www.kaltura.perf.akadns.net
@@ -89291,6 +89242,7 @@ www.ketqqygdh.com
 www.key.com
 www.key.us
 www.keybase.io
+www.keybase.io
 www.keybaseapi.com
 www.keyboard.naver.com
 www.keycdn.com
@@ -89468,6 +89420,7 @@ www.kingoablc.com
 www.kingpeon.com
 www.kingpinmedia.net
 www.kingsoft.com
+www.kinguin.net
 www.kinguin.net
 www.kinhenathow.ru
 www.kinhintont.com
@@ -89798,6 +89751,7 @@ www.kot-29.alpha.dashboard.mgid.com
 www.kot-293.alpha.dashboard.mgid.com
 www.kot-293.beta.dashboard.mgid.com
 www.kotaku.com
+www.kotaku.com
 www.koten.zone
 www.kotofotto.ru
 www.koudai8.com
@@ -90057,6 +90011,7 @@ www.kubmcyofaeu.com
 www.kuchebraska.com
 www.kucoin.com
 www.kug-74.com
+www.kugou.com
 www.kugou.com
 www.kuhbcpckauwt.bid
 www.kuhlorflbeq.com
@@ -90692,6 +90647,7 @@ www.letmelook.net
 www.letodron.ru
 www.letsdoarbitrage.com
 www.letsencrypt.org
+www.letsencrypt.org
 www.letsgomets.net
 www.letsgoshopping.tk
 www.letshareus.com
@@ -91281,6 +91237,7 @@ www.livepassdl.conviva.com
 www.livepeer.org
 www.liveperson.com
 www.liveperson.net
+www.livepipe.net
 www.liveprivates.com
 www.livepromotools.com
 www.livere.com
@@ -92042,6 +91999,7 @@ www.lxyadcffdpaytd.com
 www.lxyjnqpbk.bid
 www.lxymfyptdrast.com
 www.lxzwknybfvycxr.com
+www.ly.com
 www.ly2.ws
 www.lybmmxah.com
 www.lycodz.com
@@ -94263,6 +94221,7 @@ www.mc.corel.com
 www.mcaf.ee
 www.mcafee.com
 www.mcagbtdcwklf.com
+www.mcast.net
 www.mcaxqvcu.com
 www.mcaybfrnrqpmv.com
 www.mcb.mu
@@ -94733,6 +94692,7 @@ www.meineserver.com
 www.meinevolksbank.de
 www.meinlist.com
 www.meinooriut3.info
+www.meinprospekt.de
 www.meipai.com
 www.meishichina.com
 www.meituan.com
@@ -94824,6 +94784,7 @@ www.merdeka.com
 www.meried.co
 www.merkantil.hu
 www.merkel-loves.me
+www.merkur.de
 www.merriam-webster.com
 www.merrilledge.com
 www.meryga.ru
@@ -94960,6 +94921,7 @@ www.mfxxpyhzofbsg.com
 www.mg6ikpbhco.com
 www.mgcash.com
 www.mgcashgate.com
+www.mgid.com
 www.mgjoqdmjofl.bid
 www.mgogo.ru
 www.mgojnezwuuxyv.com
@@ -96393,6 +96355,7 @@ www.mycdn.info
 www.mycdn2.co
 www.mycity.com
 www.mycliplister.com
+www.mycliplister.com
 www.myclips.twitch.tv
 www.mycode.prepbytes.com
 www.myconst.net
@@ -96750,6 +96713,7 @@ www.navabi-de.sjv.io
 www.navabiuk.sjv.io
 www.navaxudoru.com
 www.naver.com
+www.naver.com
 www.naverapp.naver.com
 www.navercast.naver.com
 www.navesu.co.uk
@@ -96918,6 +96882,7 @@ www.nemzdfjnyqy.bid
 www.nengroup.com
 www.nenrk.us
 www.nenter.com
+www.nenuwanmastaa1.akamaized.net
 www.neo-neo-xeo.com
 www.neo.rr.com
 www.neoban.su
@@ -97659,6 +97624,7 @@ www.no
 www.no-cache.hubspot.com
 www.no-intro.dlgsoftware.net
 www.no-ip.biz
+www.no-ip.com
 www.no-ip.com
 www.no.2.cqcounter.com
 www.no.wikipedia.com
@@ -98977,6 +98943,7 @@ www.oneclickmoney.ru
 www.oneclient.sfx.ms
 www.onecollector.cloudapp.aria.akadns.net
 www.onedmp.com
+www.onedrive-collection.device.mobileengagement.windows.net
 www.onedrive-collection.device.mobileengagement.windows.net
 www.onedrive-onerm-events-primary-cus.servicebus.windows.net
 www.onedrive.com
@@ -100451,6 +100418,7 @@ www.pci.spotify.com
 www.pckbizoed.com
 www.pckhpollpp.bid
 www.pcmag.com
+www.pcmag.com
 www.pcmatic.com
 www.pcmweb.nl
 www.pconnections.net
@@ -101070,6 +101038,7 @@ www.pl.wikipedia.com
 www.place206.nighter.club
 www.place412.nighter.club
 www.placehold.it
+www.placehold.it
 www.placeholder.com
 www.placeholdit.imgix.net
 www.placeithere.net
@@ -101263,6 +101232,7 @@ www.plushlikegarnier.com
 www.plusmail.com.br
 www.plusone.google.com
 www.plusvkarmuvam.ru
+www.pluto.tv
 www.pluto.tv
 www.pluwen.com
 www.plwvwvhudkuv.com
@@ -103238,6 +103208,7 @@ www.qprfans.com
 www.qpshvivbqpz.com
 www.qpttmgdofkkya.bid
 www.qq.com
+www.qq.com
 www.qq937.com
 www.qqablora.com
 www.qqapezviufsh.com
@@ -104671,6 +104642,7 @@ www.referral.ubi.com
 www.referralargumentationnetwork.info
 www.referrer.disqus.com
 www.refersion.com
+www.refersion.com
 www.refinery29.com
 www.reflethenfortoft.info
 www.reflex.tau.vk.com
@@ -105238,11 +105210,13 @@ www.rlcdn.com
 www.rlcg9jtt.ru
 www.rle.ru
 www.rleve.de
+www.rleve.de
 www.rlex.org
 www.rlgungosm.com
 www.rlhdzilsgvwu.bid
 www.rli.nl
 www.rljakgkixu.com
+www.rlje.net
 www.rllvjujeyeuy.com
 www.rlogoro.ru
 www.rlomrjxrpsev.com
@@ -106204,7 +106178,6 @@ www.s9-1.trafficdeposit.com
 www.s9.picofile.com
 www.s9.trafficdeposit.com
 www.s9vk01jgn.vk.com
-www.so.2mdn.net
 www.sa
 www.sa-blacklist.stearns.org
 www.sa-in-f14.1e100.net
@@ -107614,6 +107587,7 @@ www.shopee.ph
 www.shopee.tw
 www.shopify-app.heatmap.it
 www.shopify.com
+www.shopify.com
 www.shopifycdn.com
 www.shopifysvc.com
 www.shopik.tv
@@ -108319,6 +108293,7 @@ www.snxvrnhe.com
 www.snyu.com
 www.snyviza.ru
 www.so-excited.com
+www.so.2mdn.net
 www.so.com
 www.soadvr.com
 www.soagitet.net
@@ -108531,6 +108506,7 @@ www.sounds-resource.com
 www.source.typekit.com
 www.sourceforge.io
 www.sourceforge.mirrorservice.org
+www.sourceforge.net
 www.sourceforge.net
 www.sourdi.com
 www.sourl.cn
@@ -108906,6 +108882,8 @@ www.spiderbytes.vimeo.com
 www.spiderhood.net
 www.spiegel-de.spiegel.de
 www.spiegel.de
+www.spiegel.de
+www.spieletipps.de
 www.spieletipps.de
 www.spigotmc.org
 www.spillvacation.com
@@ -109274,6 +109252,7 @@ www.ssl.gpsonextra.net
 www.ssl.gstatic.com
 www.ssl.kaptcha.com
 www.ssl.marfeelcdn.com
+www.ssl.mzstatic.com
 www.ssl.mzstatic.com
 www.ssl.o.webmd.com
 www.ssl.p.jwpcdn.com
@@ -109887,6 +109866,7 @@ www.steamcontent.com
 www.steamdb.info
 www.steamdir5.gun.qq.com
 www.steamdir9.gun.qq.com
+www.steamgifts.com
 www.steampowered.com
 www.steamstat.us
 www.steamstatic.com
@@ -110085,6 +110065,7 @@ www.strikeadcdn.s3.amazonaws.com
 www.strikeout.nu
 www.stringroadway.com
 www.stripchat.com
+www.stripe.com
 www.stripe.com
 www.stripe.network
 www.stripecdn.com
@@ -110710,6 +110691,7 @@ www.t-mobile.ugc.bazaarvoice.com
 www.t-mobilebankowe.pl
 www.t-online.at
 www.t-online.de
+www.t-online.de
 www.t-trg.email.adobe.com
 www.t.9gag.com
 www.t.appsflyer.com
@@ -110817,6 +110799,7 @@ www.tagbucket.cc
 www.tagcade.com
 www.tagdelivery.com
 www.tage.playstation.com
+www.tagesspiegel.de
 www.tagged.com
 www.tagger.opecloud.com
 www.taggify.net
@@ -111198,6 +111181,7 @@ www.technoratimedia.com
 www.techotopia.com
 www.techpointer.com
 www.techpowerup.com
+www.techpowerup.com
 www.techradar.com
 www.techrepublic.com
 www.techsco.de
@@ -111218,6 +111202,7 @@ www.tecklyfe.com
 www.tecmint.com
 www.tecontx.com
 www.tecpic.com.br
+www.ted.com
 www.ted.com
 www.tedcdn.com
 www.tedlrouwixqq.com
@@ -111671,6 +111656,7 @@ www.themillionare.net
 www.themis.yahoo.com
 www.themoneyes.ru
 www.themoviedb.com
+www.themoviedb.com
 www.thenation.com
 www.thenelis.pw
 www.thenetninja.co.uk
@@ -111713,6 +111699,7 @@ www.thespatialists.com
 www.thestar.com
 www.thestreetfighter.com
 www.thesun.co.uk
+www.thesun.co.uk
 www.thetabdot.com
 www.thetakeout.com
 www.theteebox.com
@@ -111722,6 +111709,7 @@ www.thetimes.co.uk
 www.thetlingheck.pro
 www.thetracker.org
 www.thetraderinpajamas.com
+www.thetvdb.com
 www.thetvdb.com
 www.thetvdb.plexapp.com
 www.theuncal.com
@@ -111942,6 +111930,7 @@ www.timeform.com
 www.timein.net
 www.timeinc.net
 www.timeline.line.me
+www.times.com
 www.timesofindia.indiatimes.com
 www.timesofmalta.com
 www.timonnbfad.bid
@@ -113067,6 +113056,7 @@ www.trophy01.np.community.playstation.net
 www.tropic88weather.center
 www.tropicalos.com
 www.tropicalstorm.com
+www.trovo.live
 www.trowel.twitch.tv
 www.troyhunt.com
 www.trqbzsxnzxmf.com
@@ -113168,6 +113158,7 @@ www.tswhwnkcjvxf.com
 www.tsybqlldfsstw.bid
 www.tsytomer.ru
 www.ttarget.ru
+www.ttcdn-tos.pstatp.com
 www.ttcdn-tos.pstatp.com
 www.ttcl.ru
 www.ttdaxwrryiou.com
@@ -115838,6 +115829,7 @@ www.vjzqmbcx.com
 www.vjzttumdetao.com
 www.vk-traf.ru
 www.vk.com
+www.vk.com
 www.vk.comwww.vk.com
 www.vk.vk.com
 www.vk242.ru
@@ -115938,6 +115930,7 @@ www.vmtaqxsf.bid
 www.vmtwnkpskok.com
 www.vmvhmwppcsvd.com
 www.vmvuptdijjwi.com
+www.vmware.com
 www.vmware.com
 www.vmyvsltb.com
 www.vmyzwzgggbcp.com
@@ -116255,6 +116248,7 @@ www.vox-cdn.com
 www.vox.com
 www.voxel-firmware.com
 www.voxmedia.com
+www.voxmedia.com
 www.voxnrvzwy.com
 www.voxucaldgpicqh.com
 www.voyeurbase.com
@@ -116547,6 +116541,7 @@ www.vulgiatious.com
 www.vulging.pro
 www.vulkan.site
 www.vulkan1.net
+www.vultr.com
 www.vultr.com
 www.vulture.com
 www.vumek.club
@@ -117427,6 +117422,7 @@ www.whatsapp-cdn-shv-01-vie1.fbcdn.net
 www.whatsapp-cdn-shv-02-sin6.fbcdn.net
 www.whatsapp.com
 www.whatsapp.net
+www.whatsapp.net
 www.whatsmyip.org
 www.whattomine.com
 www.whbfgaspmycyve.com
@@ -117734,6 +117730,7 @@ www.wishabi.net
 www.wisoky.biz
 www.wisozk.link
 www.wistia.com
+www.wistia.com
 www.wistia.net
 www.wit.ai
 www.witalfieldt.com
@@ -118012,6 +118009,7 @@ www.wowway.com
 www.woxvgdtje.com
 www.wozltvfxtntaqk.com
 www.wp.breitbart.com
+www.wp.com
 www.wp.com
 www.wp.kinott.ru
 www.wp.viber.com
@@ -120522,6 +120520,7 @@ www.yikkagezqsob.com
 www.yiklmnmijwlryv.com
 www.yimfcnxzyqhpih.com
 www.yimg.com
+www.yimg.jp
 www.yimg.jp
 www.yincrkvptefw.bid
 www.yingjiesheng.com
@@ -123168,6 +123167,7 @@ yikkagezqsob.com
 yiklmnmijwlryv.com
 yimfcnxzyqhpih.com
 yimg.com
+yimg.jp
 yimg.jp
 yincrkvptefw.bid
 yingjiesheng.com
