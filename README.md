@@ -33,8 +33,8 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Basic | 12k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Extension/MultiBlock-YouTube-AdBlock.txt) |
+Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt?token=AUSF6PLB63OWCR7M6RA3NATBHJBEW)  |
+Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt?token=AUSF6PPMY2ZXENGVN2E3XXLBHJBIA) |
 
 
 ## Supported Ad Blockers 📌
