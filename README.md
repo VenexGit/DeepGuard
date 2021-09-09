@@ -58,7 +58,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/mas
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
 Full | Domain Names for (.com .org .net .us .co) Zones | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Daily Domains | New Domain Names for (.com) Zone | 135k - 07/09/2021 | [Link Folder](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Daily Domains | New Domain Names for (.com) Zone | 145k - 09/09/2021 | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
 
