@@ -91,7 +91,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 
 ## Support
 
-Maintaining a quality blocking project takes a lot of time. Energized Protection is completely independently funded. We fight for our users. This does mean
+Maintaining a quality blocking project takes a lot of time. MultiBlock is completely independently funded. We fight for our users. This does mean
 however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving Energized rather than dealing with distractions.
 
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
@@ -101,7 +101,7 @@ This donation is for our services, not for any pack, resource or any other mean.
 
 ## Disclaimer
 
-Energized Protection Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
+MultiBlock Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
 
 ## License
 
