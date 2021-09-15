@@ -74,7 +74,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://github.com/EnergizedProtection/block) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pant Sufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) 
 [<img alt="Ultimate Hosts" src="https://img.shields.io/badge/-Ultimate Hosts BlackList-ed7926?style=flat-square&logo=mediafire&logoColor=black" />](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) 
-[<img alt="Allthecom" src="https://img.shields.io/badge/-Allthecom-134e9b?style=flat-square&logo=Homebridge&logoColor=white" />](https://allthecom.info)
+[<img alt="OISD" src="https://img.shields.io/badge/-OISD-134e9b?style=flat-square&logo=redhat&logoColor=white" />](https://allthecom.info)
 [<img alt="Good Bye Ads" src="https://img.shields.io/badge/-Good Bye Ads-810000?style=flat-square&logo=gnuprivacyguard&logoColor=white" />](https://github.com/jerryn70/GoodbyeAds) 
 [<img alt="Block List Project" src="https://img.shields.io/badge/-Block List Project-61dafb?style=flat-square&logo=codeproject&logoColor=black" />](https://github.com/blocklistproject/Lists)
 [<img alt="Steven Black" src="https://img.shields.io/badge/-Steven Black-4b32c3?style=flat-square&logo=handshake_protocol&logoColor=white" />](https://github.com/StevenBlack/hosts)
@@ -88,6 +88,14 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="WindowsSpyBlocker" src="https://img.shields.io/badge/-Windows Spy Blocker-2496ed?style=flat-square&logo=adblockplus&logoColor=white" />](https://github.com/crazy-max/WindowsSpyBlocker)
 [<img alt="SomeOneWhoCares" src="https://img.shields.io/badge/-Some One Who Cares-e34f26?style=flat-square&logo=momenteo&logoColor=white" />](https://someonewhocares.org/hosts)
 [<img alt="Mitchell Krogza" src="https://img.shields.io/badge/-Mitchell Krogza-bbbdf6?style=flat-square&logo=wireguard&logoColor=black" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="Win Help 2002" src="https://img.shields.io/badge/-Win Help 2002-d4d2b3?style=flat-square&logo=starship&logoColor=black" />](https://someonewhocares.org/hosts)
+[<img alt="Url Haus" src="https://img.shields.io/badge/-Url Haus-c92a5a?style=flat-square&logo=wireguard&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="Pgl Yoyo" src="https://img.shields.io/badge/-Pgl Yoyo-9683d3?style=flat-square&logo=momenteo&logoColor=white" />](https://someonewhocares.org/hosts)
+[<img alt="Spam 404" src="https://img.shields.io/badge/-Spam 404-2a9784?style=flat-square&logo=wireguard&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="Kad Hosts" src="https://img.shields.io/badge/-Kad Hosts-8a3b82?style=flat-square&logo=momenteo&logoColor=white" />](https://someonewhocares.org/hosts)
+[<img alt="Phishing Army" src="https://img.shields.io/badge/-Phishing Army-25f9f1?style=flat-square&logo=wireguard&logoColor=black" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="H Block" src="https://img.shields.io/badge/-Hblock-d64612?style=flat-square&logo=wireguard&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="1 Block" src="https://img.shields.io/badge/-1block-0b9198?style=flat-square&logo=wireguard&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
 
 ## Support Me 📌
 
