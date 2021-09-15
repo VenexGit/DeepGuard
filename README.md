@@ -96,7 +96,7 @@ however that we also have to spend our owns to pay the bills. This is where you 
 
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
-<a href="https://paypal.me/pools/c/86ZbnsTbVN" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png"></a>
+<a href="https://paypal.me/pools/c/86ZbnsTbVN" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a>
 
 
 ## Disclaimer
