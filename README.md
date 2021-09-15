@@ -69,7 +69,8 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
 All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
-# Thanks To Everyone
+# Thanks To Everyone ❤
+
 [<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://www.typescriptlang.org) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pantsufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://www.typescriptlang.org) 
 [<img alt="Ultimate Hosts" src="https://img.shields.io/badge/-Ultimate Hosts-ed7926?style=flat-square&logo=mediafire&logoColor=black" />](https://www.typescriptlang.org) 
@@ -88,7 +89,22 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="SomeOneWhoCares" src="https://img.shields.io/badge/-SomeOneWhoCares-e34f26?style=flat-square&logo=momenteo&logoColor=white" />](https://www.typescriptlang.org)
 [<img alt="Mitchell Krogza" src="https://img.shields.io/badge/-Mitchell Krogza-bbbdf6?style=flat-square&logo=wireguard&logoColor=black" />](https://www.typescriptlang.org)
 
+## Support
+
+Maintaining a quality blocking project takes a lot of time. Energized Protection is completely independently funded. We fight for our users. This does mean
+however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving Energized rather than dealing with distractions.
+
+This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
+
+<a href="https://paypal.me/pools/c/86ZbnsTbVN" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png"></a>
+
+
+## Disclaimer
+
+Energized Protection Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
+
 ## License
 
 Content of the MultiBlock is licensed under a [MIT License](https://github.com/VenexGit/MultiBlock/blob/main/LICENSE).
 
+<p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
