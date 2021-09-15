@@ -77,6 +77,16 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="Ublock Origin" src="https://img.shields.io/badge/-Ublock Origin-810000?style=flat-square&logo=ublockorigin&logoColor=white" />](https://www.typescriptlang.org) 
 [<img alt="Block List Project" src="https://img.shields.io/badge/-Block List Project-61dafb?style=flat-square&logo=codeproject&logoColor=black" />](https://www.typescriptlang.org)
 [<img alt="Steven Black" src="https://img.shields.io/badge/-Steven Black-4b32c3?style=flat-square&logo=handshake_protocol&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="LightSwitch05" src="https://img.shields.io/badge/-LightSwitch05-cb3837?style=flat-square&logo=drupal&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="HostsVn" src="https://img.shields.io/badge/-HostsVn-43853d?style=flat-square&logo=hackaday&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="Pi-hole" src="https://img.shields.io/badge/-Pihole-c9c9c9?style=flat-square&logo=pihole&logoColor=black" />](https://www.typescriptlang.org)
+[<img alt="AdGuard" src="https://img.shields.io/badge/-AdGuard-3da610?style=flat-square&logo=adguard&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="Easy List" src="https://img.shields.io/badge/-Easy List-007acc?style=flat-square&logo=curl&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="AdaWay" src="https://img.shields.io/badge/-AdaWay-690606?style=flat-square&logo=adblock&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="Polish Filters" src="https://img.shields.io/badge/-Polish Filters-794141?style=flat-square&logo=minutemailer&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="WindowsSpyBlocker" src="https://img.shields.io/badge/-WindowsSpyBlocker-2496ed?style=flat-square&logo=adblockplus&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="SomeOneWhoCares" src="https://img.shields.io/badge/-SomeOneWhoCares-e34f26?style=flat-square&logo=momenteo&logoColor=white" />](https://www.typescriptlang.org)
+[<img alt="Mitchell Krogza" src="https://img.shields.io/badge/-Mitchell Krogza-bbbdf6?style=flat-square&logo=wireguard&logoColor=black" />](https://www.typescriptlang.org)
 
 ## License
 
