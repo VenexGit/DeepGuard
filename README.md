@@ -71,7 +71,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 
 # Thanks To Everyone ❤
 
-[<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://www.typescriptlang.org) 
+[<img alt="MultiBlock" src="https://img.shields.io/badge/-MultiBlock-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://www.typescriptlang.org) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pantsufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://www.typescriptlang.org) 
 [<img alt="Ultimate Hosts" src="https://img.shields.io/badge/-Ultimate Hosts-ed7926?style=flat-square&logo=mediafire&logoColor=black" />](https://www.typescriptlang.org) 
 [<img alt="Allthecom" src="https://img.shields.io/badge/-Allthecom-134e9b?style=flat-square&logo=Homebridge&logoColor=white" />](https://www.typescriptlang.org)
@@ -92,7 +92,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 ## Support
 
 Maintaining a quality blocking project takes a lot of time. MultiBlock is completely independently funded. We fight for our users. This does mean
-however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving Energized rather than dealing with distractions.
+however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving MultiBlock rather than dealing with distractions.
 
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
