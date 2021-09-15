@@ -75,7 +75,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pant Sufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) 
 [<img alt="Ultimate Hosts" src="https://img.shields.io/badge/-Ultimate Hosts BlackList-ed7926?style=flat-square&logo=mediafire&logoColor=black" />](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) 
 [<img alt="Allthecom" src="https://img.shields.io/badge/-Allthecom-134e9b?style=flat-square&logo=Homebridge&logoColor=white" />](https://allthecom.info)
-[<img alt="Good Bye Ads" src="https://img.shields.io/badge/-Good Bye Ads-810000?style=flat-square&logo=gnuprivacyguard&logoColor=white" />](https://github.com/gorhill/uBlock) 
+[<img alt="Good Bye Ads" src="https://img.shields.io/badge/-Good Bye Ads-810000?style=flat-square&logo=gnuprivacyguard&logoColor=white" />](https://github.com/jerryn70/GoodbyeAds) 
 [<img alt="Block List Project" src="https://img.shields.io/badge/-Block List Project-61dafb?style=flat-square&logo=codeproject&logoColor=black" />](https://github.com/blocklistproject/Lists)
 [<img alt="Steven Black" src="https://img.shields.io/badge/-Steven Black-4b32c3?style=flat-square&logo=handshake_protocol&logoColor=white" />](https://github.com/StevenBlack/hosts)
 [<img alt="LightSwitch05" src="https://img.shields.io/badge/-Light Switch 05-cb3837?style=flat-square&logo=drupal&logoColor=white" />](https://github.com/lightswitch05/hosts)
