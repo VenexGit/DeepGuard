@@ -49,7 +49,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
        
 ***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
-***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ❤
+***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
 
 ## Domains Zones Packs 🔗​
   
