@@ -88,14 +88,14 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 [<img alt="WindowsSpyBlocker" src="https://img.shields.io/badge/-Windows Spy Blocker-2496ed?style=flat-square&logo=adblockplus&logoColor=white" />](https://github.com/crazy-max/WindowsSpyBlocker)
 [<img alt="SomeOneWhoCares" src="https://img.shields.io/badge/-Some One Who Cares-e34f26?style=flat-square&logo=momenteo&logoColor=white" />](https://someonewhocares.org/hosts)
 [<img alt="Mitchell Krogza" src="https://img.shields.io/badge/-Mitchell Krogza-bbbdf6?style=flat-square&logo=wireguard&logoColor=black" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
-[<img alt="Win Help 2002" src="https://img.shields.io/badge/-Win Help 2002-d4d2b3?style=flat-square&logo=starship&logoColor=black" />](https://someonewhocares.org/hosts)
-[<img alt="Url Haus" src="https://img.shields.io/badge/-Url Haus-c92a5a?style=flat-square&logo=fastapi&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
-[<img alt="Pgl Yoyo" src="https://img.shields.io/badge/-Pgl Yoyo-9683d3?style=flat-square&logo=postmates&logoColor=white" />](https://someonewhocares.org/hosts)
-[<img alt="Spam 404" src="https://img.shields.io/badge/-Spam 404-2a9784?style=flat-square&logo=phabricator&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
-[<img alt="Kad Hosts" src="https://img.shields.io/badge/-Kad Hosts-8a3b82?style=flat-square&logo=pandas&logoColor=white" />](https://someonewhocares.org/hosts)
-[<img alt="Phishing Army" src="https://img.shields.io/badge/-Phishing Army-25f9f1?style=flat-square&logo=vapor&logoColor=black" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
-[<img alt="H Block" src="https://img.shields.io/badge/-Hblock-d64612?style=flat-square&logo=wwise&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
-[<img alt="1 Block" src="https://img.shields.io/badge/-1Block-0b9198?style=flat-square&logo=stackbit&logoColor=white" />](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites)
+[<img alt="Win Help 2002" src="https://img.shields.io/badge/-Win Help 2002-d4d2b3?style=flat-square&logo=starship&logoColor=black" />](https://winhelp2002.mvps.org)
+[<img alt="Url Haus" src="https://img.shields.io/badge/-Url Haus-c92a5a?style=flat-square&logo=fastapi&logoColor=white" />](https://urlhaus.abuse.ch)
+[<img alt="Pgl Yoyo" src="https://img.shields.io/badge/-Pgl Yoyo-9683d3?style=flat-square&logo=postmates&logoColor=white" />](https://pgl.yoyo.org)
+[<img alt="Spam 404" src="https://img.shields.io/badge/-Spam 404-2a9784?style=flat-square&logo=phabricator&logoColor=white" />](https://github.com/Spam404/lists)
+[<img alt="Neodev Pro" src="https://img.shields.io/badge/-Neodev Pro-8a3b82?style=flat-square&logo=pandas&logoColor=white" />](https://github.com/neodevpro/neodevhost)
+[<img alt="Phishing Army" src="https://img.shields.io/badge/-Phishing Army-25f9f1?style=flat-square&logo=vapor&logoColor=black" />](https://phishing.army)
+[<img alt="H Block" src="https://img.shields.io/badge/-Hblock-d64612?style=flat-square&logo=wwise&logoColor=white" />](https://github.com/hectorm/hblock)
+[<img alt="1 Block" src="https://img.shields.io/badge/-1Block-0b9198?style=flat-square&logo=stackbit&logoColor=white" />](https://github.com/badmojr/1Hosts)
 
 ## Support Me 📌
 
