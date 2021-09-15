@@ -69,7 +69,7 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
 All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
-# Thanks To Everyone 📢
+# Thanks To Everyone 📌
 
 [<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://github.com/EnergizedProtection/block) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pant Sufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) 
