@@ -71,7 +71,7 @@ All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2
 
 # Thanks To Everyone ❤
 
-[<img alt="MultiBlock" src="https://img.shields.io/badge/-MultiBlock-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://www.typescriptlang.org) 
+[<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://www.typescriptlang.org) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pantsufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://www.typescriptlang.org) 
 [<img alt="Ultimate Hosts" src="https://img.shields.io/badge/-Ultimate Hosts-ed7926?style=flat-square&logo=mediafire&logoColor=black" />](https://www.typescriptlang.org) 
 [<img alt="Allthecom" src="https://img.shields.io/badge/-Allthecom-134e9b?style=flat-square&logo=Homebridge&logoColor=white" />](https://www.typescriptlang.org)
