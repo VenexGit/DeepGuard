@@ -66,8 +66,9 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:--------:|
-Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
-All | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Mini | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
+Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Full | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
 # Thanks To Everyone 📌
 
