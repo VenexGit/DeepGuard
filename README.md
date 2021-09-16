@@ -115,4 +115,4 @@ MultiBlock Block Lists are basically `blacklists` files to block access to domai
 
 Content of the MultiBlock is licensed under a [MIT License](https://github.com/VenexGit/MultiBlock/blob/main/LICENSE).
 
-<p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
+<p align="center"><a href="https://github.com/VenexGit/MultiBlock" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
