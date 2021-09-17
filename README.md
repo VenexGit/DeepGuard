@@ -18,7 +18,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 </tr>
 </table>
 
-##  Block Lists ​🚫
+##  Block Lists ​⛔️
 
 Basic info about Block List.
 
