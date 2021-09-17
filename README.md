@@ -51,14 +51,14 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
    
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
 
-## Domains Zones Packs 🔗​
+## Domain Names Packs 🔗​
   
   List of active domains . Registered domains database with daily updates.
 
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
-Full | Domain Names for (.com .org .net .us .co (...) Zones | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Daily Domains | New Domain Names for (.com) Zone | 153k - 15/09/2021 | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
+Full | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
+Daily Domains | Newly Registered Domains | 153k - 15/09/2021 | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
 
