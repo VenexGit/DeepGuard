@@ -1,27 +1,9 @@
-.com
-.net
-.org
-.edu
-.gov
-.mil
-.abbott
-.aero
-.asia
-.biz
-.cat
-.coop
-.info
-.int
-.jobs
-.mobi
-.museum
-.name
-.post
-.pro
-.tel
-.travel
-.xxx
-.ac
+# -------------------------------------------- 
+# Title: MultiBlock - Mini Tld
+# Description: Top Level Domain (Pack Mini Tld) 
+# Format: Tld List 
+# Version: 1.1 
+# --------------------------------------------
 .ad
 .ae
 .af
@@ -223,7 +205,6 @@
 .sh
 .si
 .sj
-. Ja
 .sk
 .sl
 .sm
@@ -274,4 +255,28 @@
 .yu
 .za
 .zm
-.zw
+.com
+.net
+.org
+.edu
+.gov
+.mil
+.biz
+.cat
+.int
+.pro
+.tel
+.xxx
+.ja
+.aero
+.asia
+.zw.ac
+.coop
+.info
+.jobs
+.mobi
+.name
+.post
+.abbott
+.museum
+.travel
