@@ -58,7 +58,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
 Full | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Daily Domains | Domains Newly Registered | 153k - 15/09/2021 | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
+Daily Domains | Domains Newly Registered | 153k - `15/09/2021` | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
 
