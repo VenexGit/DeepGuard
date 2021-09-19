@@ -1,12 +1,12 @@
 <div align="center">
-  <h1> MultiBlock - Ads - Porn - Malware 🔥</h1>
+  <h1> DeepGuard - Ads - Porn - Malware 🔥</h1>
 </div>
  <div align="center">
   
- <a href="https://github.com/VenexGit/MultiBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
-<a href="https://github.com/VenexGit/MultiBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Sep 25, 2021-orange.svg"></a>
-<a href="https://github.com/VenexGit/MultiBlock"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Officiel-scarlet.svg"></a>
-<a href="https://github.com/VenexGit/MultiBlock/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
+ <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
+<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Sep 25, 2021-orange.svg"></a>
+<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Officiel-scarlet.svg"></a>
+<a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
   
 The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
 
@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
-Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Formats/MultiBlock-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt) |
-Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) |
+Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
+Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
 
 ##  White Lists   🛡
 
@@ -33,17 +33,17 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Basic.txt) |
-Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/1%20-%20White%20List/Unified.txt) |
+Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
+Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |
 
 
 ## Supported Ad Blockers 📌
 
 ***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
-***Android:*** For non-rooted devices, MultiBlock can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
+***Android:*** For non-rooted devices, DeepGuard can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
      
-***Android (rooted):*** For rooted device, MultiBlock can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
+***Android (rooted):*** For rooted device, DeepGuard can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
      
 ***Linux:*** An open-source host file manager called [`hBlock`](https://github.com/hectorm/hBlock).   
        
@@ -57,8 +57,8 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/mai
 
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
-Full | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/MultiBlock/master/Hosts/MultiBlock.txt)  |
-Daily Domains | Domains Newly Registered | 153k - `15/09/2021` | [Link Folder](https://github.com/VenexGit/MultiBlock/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
+Full | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
+Daily Domains | Domains Newly Registered | 153k - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
 
@@ -66,9 +66,9 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:--------:|
-Mini | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
-Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
-Full | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Mini | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
+Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Full | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
 # Thanks To Everyone 📌
 
@@ -100,8 +100,8 @@ Full | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/MultiBlock/main/
 
 ## Support Me 📌
 
-Maintaining a quality blocking project takes a lot of time. MultiBlock is completely independently funded. We fight for our users. This does mean
-however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving MultiBlock rather than dealing with distractions.
+Maintaining a quality blocking project takes a lot of time. DeepGuard is completely independently funded. We fight for our users. This does mean
+however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving DeepGuard rather than dealing with distractions.
 
 This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
@@ -110,10 +110,10 @@ This donation is for our services, not for any pack, resource or any other mean.
 
 ## Disclaimer 📌
 
-MultiBlock Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
+DeepGuard Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
 
 ## License 📌
 
-Content of the MultiBlock is licensed under a [MIT License](https://github.com/VenexGit/MultiBlock/blob/main/LICENSE).
+Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
 <p align="center"><a href="https://github.com/VenexGit" target="_blank"><img src="https://img.shields.io/badge/ＶＥＮＥＸ-新 ドラゴン-7580f7.svg?longCache=true&style=flat-square"></a><p>
