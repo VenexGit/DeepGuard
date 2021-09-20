@@ -57,7 +57,7 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main
 
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
-Full | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
+Full Domains | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
 Daily Domains | Domains Newly Registered | 153k - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
@@ -66,9 +66,9 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:--------:|
-Mini | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
-Top | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
-Full | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Spark | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
+Basic | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Unified | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
 # Thanks To Everyone 📌
 
