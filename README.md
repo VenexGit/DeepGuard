@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domains List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
-Basic | Light Protection. | Any Device | 2.4M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Basic.txt)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Basic.txt) |[ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Basic.zip) |
-Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Unified.txt) |[TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Unified.txt) | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Unified.zip) |
+Basic | Light Protection. | Any Device | 2.9M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Basic.txt)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Basic.txt) |[ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Basic.zip) |
+Unified | Flagship Protection. | Any Device | 7.3M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Unified.txt) |[TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Unified.txt) | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Unified.zip) |
 
 ##  White Lists   🛡
 
