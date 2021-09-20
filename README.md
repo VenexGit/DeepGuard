@@ -22,7 +22,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 
 Basic info about Block List.
 
-| Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
+| Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domains List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
 Basic | Light Protection. | Any Device | 2.4M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
 Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
@@ -31,7 +31,7 @@ Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://raw.githubus
 
 Basic info about White List.
 
-| Pack Name | Lines Counter | Domain List |
+| Pack Name | Lines Counter | Domains List |
 |:---------:|:-------------:|:-----------:|
 Basic | 12K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
 Unified | 780K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |
@@ -55,7 +55,7 @@ Unified | 780K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main
   
   List of active domains . Registered domains database with daily updates.
 
-| Pack Name | Description |Lines Counter | Domain List |
+| Pack Name | Description |Lines Counter | Domains List |
 |:---------:|:-----------:|:------------:|:-----------:|
 ALL Domains | Domain Names Registered | 75.2M | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
 Daily Domains | Domains Newly Registered | 153K - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
