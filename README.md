@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domains List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
-Basic | Light Protection. | Any Device | 2.4M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
-Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
+Basic | Light Protection. | Any Device | 2.4M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Basic.txt)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Basic.txt) |[ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Basic.zip) |
+Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Unified.txt) |[TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Unified.txt) | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Unified.zip) |
 
 ##  White Lists   🛡
 
@@ -57,7 +57,7 @@ Unified | 780K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main
 
 | Pack Name | Description |Lines Counter | Domains List |
 |:---------:|:-----------:|:------------:|:-----------:|
-ALL Domains | Domain Names Registered | 75.2M | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
+ALL Domains | Domain Names Registered | 75.2M | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Domains-Registered/Domains.zip)  |
 Daily Domains | Domains Newly Registered | 153K - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
