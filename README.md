@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
-Basic | Light Protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
-Unified | Flagship Protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
+Basic | Light Protection. | Any Device | 2.4M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
+Unified | Flagship Protection. | Any Device | 11.5M | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
 
 ##  White Lists   🛡
 
@@ -33,8 +33,8 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domain List |
 |:---------:|:-------------:|:-----------:|
-Basic | 12k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
-Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |
+Basic | 12K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
+Unified | 780K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |
 
 
 ## Supported Ad Blockers 📌
@@ -57,8 +57,8 @@ Unified | 780k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main
 
 | Pack Name | Description |Lines Counter | Domain List |
 |:---------:|:-----------:|:------------:|:-----------:|
-ALL Domains | Domain Names Registered | 43.7m | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
-Daily Domains | Domains Newly Registered | 153k - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
+ALL Domains | Domain Names Registered | 75.2M | [ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt)  |
+Daily Domains | Domains Newly Registered | 153K - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Zones/1%20-%20Daily%20Domains)  |
 
 ## Top Level Domain (TLD) 🔗
 
@@ -66,9 +66,9 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:--------:|
-Spark | 0.3k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
-Basic | 1.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
-Unified | 15.5k | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Spark | 0.3K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
+Basic | 1.5K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Unified | 15.5K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
 
 # Thanks To Everyone 📌
 
