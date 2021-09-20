@@ -24,8 +24,8 @@ Basic info about Block List.
 
 | Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domain List | Module Mgisk | 
 |:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
-Basic | light protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
-Unified | Flagship protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
+Basic | Light Protection. | Any Device | 2.4m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt)  | [TXT](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Formats/DeepGuard-AdBlock-Filter.txt) |[ZIP](https://raw.githubusercontent.com/jerryn70/DeepGuard/master/Hosts/DeepGuard.txt) |
+Unified | Flagship Protection. | Any Device | 11.5m | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |[TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) | [ZIP](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
 
 ##  White Lists   🛡
 
