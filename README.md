@@ -34,8 +34,8 @@ Basic info about White List.
 
 | Pack Name | Lines Counter | Domains List |
 |:---------:|:-------------:|:-----------:|
-Basic | 10.8K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Basic.txt) |
-Unified | 743K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20White%20List/Unified.txt) |
+Basic | 10.8K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20White%20List/Basic.txt) |
+Unified | 743K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20White%20List/Unified.txt) |
 
 
 ## Supported Ad Blockers 📌
