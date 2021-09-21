@@ -1,6 +1,6 @@
   <div align="center">
 
- ![Cover](https://github.com/VenexGit/LOGOs-PROJECTs/raw/main/New%20Project%20(3).png)
+ ![Cover](https://github.com/VenexGit/LOGOs-PROJECTs/raw/main/New%20Project%20(6).png)
 </div>
  <div align="center">
 
