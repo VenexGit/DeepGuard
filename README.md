@@ -59,7 +59,7 @@ Unified | 743K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20W
 | Pack Name | Description |Lines Counter | Domains List |
 |:---------:|:-----------:|:------------:|:-----------:|
 ALL Domains | Domain Names Registered | 75.2M | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Domains-Registered/Domains.zip)  |
-Daily Domains | Domains Newly Registered | 153K - `15/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Daily)  |
+Daily Domains | Domains Newly Registered | 153K - `22/09/2021` | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Registered)  |
 
 ## Top Level Domain (TLD) 🔗
 
