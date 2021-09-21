@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ezgif.com-gif-maker (1).png">
+</p>
+
 <div align="center">
   <h1> DeepGuard - Ads - Porn - Malware 🔥</h1>
 </div>
