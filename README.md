@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/pantsufan/Magisk-Ad-Blocking-Module/raw/master/logo.png">
-</p>
+![Cover](https://github.com/VenexGit/block/raw/master/68747470733a2f2f656e657267697a65642e70726f2f617373-svg%20(1).png)
 
 <div align="center">
   <h1> DeepGuard - Ads - Porn - Malware 🔥</h1>
