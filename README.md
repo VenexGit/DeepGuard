@@ -67,9 +67,9 @@ A top-level domain (TLD) is one of the domains at the highest level in the hiera
 
 | Pack Name | Lines Counter | TLD List |
 |:---------:|:-------------:|:--------:|
-Mini | 0.3K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/Top.txt)  |
-Top | 1.5K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
-Unified | 14.1K | [TXT](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20Domains%20Zones/2%20-%20Top%20Level%20Domain%20(TLD)/All.txt)  |
+Mini | 0.3K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20Top-Level%20Domain%20(TLD)/Mini.List)  |
+Top | 1.5K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20Top-Level%20Domain%20(TLD)/Top.List)  |
+Unified | 14.1K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20Top-Level%20Domain%20(TLD)/Unified.List)  |
 
 # Thanks To Everyone 📌
 
