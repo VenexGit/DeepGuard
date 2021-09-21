@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ezgif.com-gif-maker (1).png">
+  <img src="https://github.com/pantsufan/Magisk-Ad-Blocking-Module/raw/master/logo.png">
 </p>
 
 <div align="center">
