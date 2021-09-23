@@ -16710,7 +16710,6 @@ google.co.ve
 google.co.vi
 google.co.za
 google.co.zm
-google.co.zw
 google.com
 google.com.af
 google.com.ag
@@ -41484,7 +41483,6 @@ www.0xbtc.extremehash.io
 www.0xwxmj21r75kka.com
 www.0y2im3ma.ru
 www.1.0.0.0.9.5.7.1.1.8.9.0.1.0.0.2.ip6.arpa
-www.1.1.1.1
 www.1.168.192.in
 www.1.1ds.us
 www.1.2giga.link
@@ -41554,7 +41552,6 @@ www.10124.exx.com
 www.101games.xyz
 www.102320fef81194c7b0c7c6bbe64d845d.com
 www.1033edge.com
-www.104.199.65.11
 www.10500.myproxy.cloud.api.btcchina.com
 www.10500.myproxy.cloud.cloud.api.btcchina.com
 www.10500.myproxy.cloud.cloud.btcchina.com
@@ -60206,7 +60203,6 @@ www.google.co.ve
 www.google.co.vi
 www.google.co.za
 www.google.co.zm
-www.google.co.zw
 www.google.com
 www.google.com.af
 www.google.com.ag
