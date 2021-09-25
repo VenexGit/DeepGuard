@@ -1,18 +1,18 @@
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-#             [ D E E P − G U A R D ] 
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-#       Let's make an annoyance free
-#       better open internet. Altogether.
-#                        −−−−−−
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-# P A C K  D E T A I L S 
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-# Title: DeepGuard − Unified
+# --------------------------------------------
+#               • [ D E E P - G U A R D ] •
+# --------------------------------------------
+#             Let's make an annoyance free
+#            better open internet. Altogether.
+#                                  ------
+# --------------------------------------------
+#             • P A C K  D E T A I L S •
+# --------------------------------------------
+# Title: DeepGuard - Unified
 # Description: Blocks Ads.Trackers.Analytics.Malware.
 # Entries: 459192
 # License: MIT, 
 # Source: github.com/jerryn70/GoodbyeAds
 # Developer & Maintainer: Venex [ VenexGit ]
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− 
-# D E E P G U A R D −  B E G I N S 
-# −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− 
+# -------------------------------------------- 
+#         • D E E P G U A R D -  B E G I N S •
+# -------------------------------------------- 
