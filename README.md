@@ -22,7 +22,7 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 
 ##  Block Lists ​⛔️
 
-Basic info about Block List.
+Basic Info About Block List.
 
 Package | Description | Entries | HOSTs | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine | Compressed |
 :------:|:-----------:|:-------:|:-----:|:----------:|:-------:|:-------:|:------------:|:------:|:---------:|:---:|:-------:|:-------:|:-------:|:-------:|:----------:|
@@ -33,7 +33,7 @@ Unified | Flagship Protection. | **7.2M** | [FILE](https://raw.githubusercontent
 
   ##  White Lists   🛡
 
-Basic info about White List.
+Basic Info About White List.
 
 | Package | Entries | Domains | AdBlock | AdGuard | DNSMasq | DNSMasq IPV6 | Unbound | RPZ | OneLine | Compressed |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------------:|:-------:|:---:|:-------:|:----------:|
@@ -56,7 +56,7 @@ Unified | **10,846** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 
 ## Domain Names Packs 🔗​
   
-  List of active domains . Registered domains database with daily updates.
+  List Of Active Domains . Registered Domains Database With Daily Updates.
 
 | Pack Name | Description | Entries | Domains |
 |:---------:|:-----------:|:------------:|:-----------:|
@@ -65,7 +65,7 @@ Unified | **10,846** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 
 ## Top Level Domain (TLD) 🔗
 
-A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain.
+This Packages Provide The List Of Top Level Domains , By Level .
 
 | Package | Description | Entries | Sources |
 |:---------:|:-------------:|:--------:|:--------:| 
