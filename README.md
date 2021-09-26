@@ -36,9 +36,9 @@ Unified | Flagship Protection. | **7.2M** | [FILE](https://raw.githubusercontent
 
 Basic info about White List.
 
-| Pack Name | Lines Counter | Domains List |
+| Pack Name | Entries | Domains |
 |:---------:|:-------------:|:-----------:|
-Basic | 10.8K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20White%20List/Basic.txt) |
+BluGo | 11K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20White%20List/Basic.txt) |
 Unified | 743K | [TXT](https://github.com/VenexGit/DeepGuard/blob/main/1%20-%20White%20List/Unified.txt) |
 
 
