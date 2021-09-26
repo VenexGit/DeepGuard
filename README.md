@@ -24,8 +24,8 @@ The hosts file, called hosts, is a plain text file that all operating systems us
 
 Basic info about Block List.
 
-| Pack Name | Description | Supported devices | Lines Counter | Hosts List | Domains List | Module Mgisk | 
-|:---------:|:-----------:|:-----------------:|:-------------:|:----------:|:-----------:|:------------:|
+| Pack Name | Description | Supported devices | Lines Counter | Hosts | Hosts - Ipv6 | Domains |Module Mgisk | Ad Block | DnsMask | DnsMask - Ipv6 | Unbound | Rpz | OneLine | 
+|:---------:|:-----------:|:-----------------:|:-------------:|:-----:|:------------:|:-------:|:-----------:|:--------:|:-------:|:--------------:|:-------:|:---:|:--------:|
 Basic | Light Protection. | Any Device | 2.9M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Basic.txt)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Basic.txt) |[ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Basic.zip) |
 Unified | Flagship Protection. | Any Device | 7.3M | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Hosts/Unified.txt) |[TXT](https://github.com/VenexGit/DeepGuard/releases/download/Domains/Unified.txt) | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Magisk/Unified.zip) |
 
