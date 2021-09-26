@@ -68,10 +68,10 @@ Daily Domains | Domains Newly Registered | 117K - [`01/10/2021`](https://github.
 A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain.
 
 | Package | Description | Entries | Sources |
-|:---------:|:-------------:|:--------:|:--------:|
-1st Level | First Level Of Top-Level Domain |**0,846**| [1st / List](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Mini.List) |
-2nd Level | Second Level Of Top-Level Domain | **5,846** | [2nd / List](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
-All Levels | All Level Of Top-Level Domain | **8,846** | [All / List](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
+|:---------:|:-------------:|:--------:|:--------:| 
+1ST LEVEL | FIRST LEVEL `TLD` |**0,846**| [1ST / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Mini.List) |
+2ND LEVEL | SECOND LEVEL `TLD` | **5,846** | [2ND / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
+ALL LEVELs | ALL LEVELs `TLD` | **8,846** | [ALL / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
 
 # Thanks To Everyone 📌
 
