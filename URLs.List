@@ -1,9 +1,22 @@
-# --------------------------------------------
-# Title: DeepGuard - URLs ( BlockList )
-# Description: The Sources Used In BlockList
-# Format: URls List
-# Version: 1.1
-# --------------------------------------------
+! --------------------------------------------
+!           [ D E E P - G U A R D ] 
+! --------------------------------------------
+!         Let's make an annoyance free
+!       better open internet. Altogether.
+! --------------------------------------------
+! P A C K  D E T A I L S
+! --------------------------------------------
+! Title: DeepGuard - URLs Sources
+! Format: URLs
+! Description: The Sources Used In BlockList
+! Entries: 207
+! License: MIT,
+! Source: github.com/VenexGit/DeepGuard
+! Developer & Maintainer: Venex [ VenexGit ]
+! -------------------------------------------- 
+! D E E P G U A R D -  B E G I N S 
+! -------------------------------------------- 
+
 https://raw.githubusercontent.com/import-external-sources/hosts-sources/master/data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/domain.list
 https://raw.githubusercontent.com/import-external-sources/hosts-sources/master/data/mitchellkrogza/ultimate.hosts.blacklist/domain.list
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/mandiant_apt1_report_appendix_d.txt
