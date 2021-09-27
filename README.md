@@ -6,7 +6,7 @@
  <div align="center">
 
  <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
-<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Sep 20, 2021-orange.svg"></a>
+<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Oct 01, 2021-orange.svg"></a>
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Officiel-scarlet.svg"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-red.svg"></a>
   
