@@ -1,9 +1,9 @@
-  <div align="center">
+  
 
  ![Cover](https://github.com/VenexGit/LOGOs-PROJECTs/raw/main/68747470733a2f2f656e657267697a65642e70726f2f617373-svg%20(3).png)
 </div>
 
- <div align="center">
+ 
 
  <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-blue.svg"></a>
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Oct 01, 2021-orange.svg"></a>
