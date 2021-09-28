@@ -14,8 +14,7 @@
 </div>
 
 ## About ? 
-* The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
-
+* DeepGuard is a Dns based filter list for blocking ads, malware, phising and other online garbage. It is updated every month
 <div align="center">
 <table>
 
