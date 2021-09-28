@@ -60,7 +60,7 @@ Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 ***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
 
   
-## Domain Names Registered 🔩
+## Domain Registered 🔩
 
   List Of Active Domains . Registered Domains Database With Daily Updates.
 
@@ -69,7 +69,7 @@ Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 `ALL` `Domains` | Domain Names Registered | 75.2M | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Domains-Registered/Domains.zip)  |
 `NEWLy` `Domains` | Domains Newly Registered | 117K - [`01/10/2021`](https://github.com/2ndalpha/gasmask) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Registered)  |
 
-## Top Level Domain (TLD) 🎈
+## Top-Level Domain (TLD) 🎈
 
 This Packages Provide The List Of Top Level Domains , By Level .
 
@@ -79,7 +79,7 @@ This Packages Provide The List Of Top Level Domains , By Level .
 2ND LEVEL | SECOND LEVEL `TLD` | **8864** | [2ND / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
 ALL LEVELs | ALL LEVELs `TLD` | **13248** | [ALL / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
 
-## Support Me 📌
+## Support Me
 
 Maintaining a quality blocking project takes a lot of time. DeepGuard is completely independently funded. We fight for our users. This does mean
 however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving DeepGuard rather than dealing with distractions.
@@ -89,11 +89,11 @@ This donation is for our services, not for any pack, resource or any other mean.
 <a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a>
 
 
-## Disclaimer 📌
+## Disclaimer
 
 DeepGuard Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I or any of our team won't be responsible for any damage or loss. Never forget to make backup.
 
-## License 📌
+## License
 
 Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
