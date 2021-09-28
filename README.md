@@ -5,14 +5,15 @@
 </div>
  <div align="center">
 
- <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
+  
+<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Oct 01, 2021-red.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
 
-## About ? 
-* The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
+The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
+
 <table>
 <tr>
 <td>
@@ -44,22 +45,21 @@ Basic | **57034**  | [TXT](https://github.com/EnergizedProtection/unblock/raw/ma
 Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (245K) | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (192K) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (372K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (510K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (468K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (404K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (203K) | [ZIP](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (203K) |
 
 
-## Supported ?
+## Supported Ad Blockers 📌
 
-* `Windows`: On Windows, you can use [Hostman](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
+***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
      
-* `Android`: For non-rooted devices, DeepGuard can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [Blokada](https://f-droid.org/en/packages/org.blokada.alarm/), [Personal DNS Filter](https://www.zenz-solutions.de/personaldnsfilter/), [Nebulo](https://github.com/Ch4t4r/Nebulo), or [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
+***Android:*** For non-rooted devices, DeepGuard can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
      
-* `Android (rooted)`: For rooted device, DeepGuard can be used with [AdAway](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
+***Android (rooted):*** For rooted device, DeepGuard can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
      
-* `Linux`: An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).   
+***Linux:*** An open-source host file manager called [`hBlock`](https://github.com/hectorm/hBlock).   
        
-* `Mac OS`: This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
+***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
    
-* `Adblockers`: Use filter format with [uBlock](https://github.com/gorhill/uBlock), [AdGuard](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
+***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
 
-
-
+  
 ## Domain Names Registered 🔩
 
   List Of Active Domains . Registered Domains Database With Daily Updates.
@@ -79,7 +79,8 @@ This Packages Provide The List Of Top Level Domains , By Level .
 2ND LEVEL | SECOND LEVEL `TLD` | **8864** | [2ND / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
 ALL LEVELs | ALL LEVELs `TLD` | **13248** | [ALL / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
 
-## Thanks To Everyone 📌
+
+# Thanks To Everyone 📌
 
 [<img alt="Energized" src="https://img.shields.io/badge/-Energized-ffcc00?style=flat-square&logo=pytorchlightning&logoColor=black" />](https://github.com/EnergizedProtection/block) 
 [<img alt="Pantsufan" src="https://img.shields.io/badge/-Pant Sufan-008e82?style=flat-square&logo=magisk&logoColor=white" />](https://github.com/pantsufan/Magisk-Ad-Blocking-Module) 
