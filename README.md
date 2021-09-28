@@ -45,22 +45,8 @@ Basic | **57034**  | [TXT](https://github.com/EnergizedProtection/unblock/raw/ma
 Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/filter) (245K) | [FILTER](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt) (192K) | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq.conf) (372K) | [CONF IPV6](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/dnsmasq-ipv6.conf) (510K) | [CONF](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/unbound.conf) (468K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/rpz.txt) (404K) | [TXT](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (203K) | [ZIP](https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/pdnsf.txt) (203K) |
 
 
-## Supported Ad Blockers 📌
 
-***Windows:*** On Windows, you can use [`Hostman`](http://www.abelhadigital.com/hostsman/), to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.       
-     
-***Android:*** For non-rooted devices, DeepGuard can be used with [`DNS66`](https://f-droid.org/en/packages/org.jak_linux.dns66/), [`Blokada`](https://f-droid.org/en/packages/org.blokada.alarm/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/), [`Nebulo`](https://github.com/Ch4t4r/Nebulo), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) all are free and open-source ad-blockers.     
-     
-***Android (rooted):*** For rooted device, DeepGuard can be used with [`AdAway`](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
-     
-***Linux:*** An open-source host file manager called [`hBlock`](https://github.com/hectorm/hBlock).   
-       
-***Mac OS:*** This host file can be used with [`gasmask`](https://github.com/2ndalpha/gasmask).    
-   
-***Adblockers:*** Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app. ♥️
-
-  
-## Domain Registered 🔩
+## Domains Registered Packs 🔩
 
   List Of Active Domains . Registered Domains Database With Daily Updates.
 
@@ -79,14 +65,16 @@ This Packages Provide The List Of Top Level Domains , By Level .
 2ND LEVEL | SECOND LEVEL `TLD` | **8864** | [2ND / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
 ALL LEVELs | ALL LEVELs `TLD` | **13248** | [ALL / LIST](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
 
+</div>
+
 ## Support Me
 
-Maintaining a quality blocking project takes a lot of time. DeepGuard is completely independently funded. We fight for our users. This does mean
+* Maintaining a quality blocking project takes a lot of time. DeepGuard is completely independently funded. We fight for our users. This does mean
 however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving DeepGuard rather than dealing with distractions.
 
-This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
+* This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
 
-<a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a>
+<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p>
 
 
 ## Disclaimer
