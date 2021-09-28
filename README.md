@@ -28,7 +28,7 @@
 </div>
 <div align="center">
 
-## Block Lists ​⛔️
+## Block List ​⛔️
 
 Basic Info About Block List.
 
@@ -41,7 +41,7 @@ Porn <br> <sup>`FULL`</sup> | Pornware Blocking. | **4313714** | [FILE](https://
 Ultimate | Light Protection. | **1628288** | [FILE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K)  | [FILE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.zip) (372K)  | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)| [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [TWRP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K)  | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) |
 Unified | Flagship Protection. | **6254951** | [FILE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K)  | [FILE](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.zip) (372K)  | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)| [CONF IPV6](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [TWRP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (372K)  | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd.txt) (372K)  | [FILTER](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/EnergizedAd-domains.txt) (468K) |
 
-## White Lists   🛡
+## White List 🛡
 
 Basic Info About White List.
 
@@ -69,7 +69,7 @@ Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 
 <div align="center">
 
-## Domains Registered Packs 🔩
+## Domains Registered 💡
 
   List Of Active Domains . Registered Domains Database With Daily Updates.
 
@@ -78,7 +78,7 @@ Unified | **785861** | [TXT](https://github.com/EnergizedProtection/unblock/raw/
 `ALL` `Domains` | Domain Names Registered | 75.2M | [ZIP](https://github.com/VenexGit/DeepGuard/releases/download/Domains-Registered/Domains.zip)  |
 `NEWLy` `Domains` | Domains Newly Registered | 117K - [`01/10/2021`](https://github.com/2ndalpha/gasmask) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/2%20-%20Domains%20Registered)  |
 
-## Top-Level Domain (TLD) 🎈
+## Top-Level Domain 🎈
 
 This Packages Provide The List Of Top Level Domains , By Level .
 
