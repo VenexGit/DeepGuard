@@ -86,9 +86,9 @@ This Packages Provide The List Of Top Level Domains , By Level .
 
 | Package | Description | Entries | Sources |
 |:---------:|:-------------:|:--------:|:--------:| 
-1st Level | First Level `TLD` |**2158**| [RAW](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Mini.List) |
-2nd Level | Second Level `TLD` | **8864** | [RAW](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Top.List)  |
-All Levels | All Levels `TLD` | **13248** | [RAW](https://github.com/VenexGit/DeepGuard/blob/main/3%20-%20TLDs/Unified.List) |
+1st Level | First Level `TLD` |**2158**| [RAW](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20TLD/First%20LeveL.txt) |
+2nd Level | Second Level `TLD` | **8864** | [RAW](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20TLD/Second%20LeveL.txt)  |
+All Levels | All Levels `TLD` | **13248** | [RAW](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/2%20-%20TLD/All%20LeveLs.txt) |
 
 </div>
 
