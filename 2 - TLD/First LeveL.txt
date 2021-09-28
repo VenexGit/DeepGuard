@@ -14,7 +14,7 @@
 # Source: github.com/VenexGit/DeepGuard
 # Developer & Maintainer: Venex [ VenexGit ]
 # -------------------------------------------- 
-# D E E P G U A R D -  B E G I N S 
+# D E E P G U A R D -  B E G I N S
 # -------------------------------------------- 
 .abarth
 .abarthabarth
