@@ -9,7 +9,17 @@
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Oct 01, 2021-red.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
-  
+----
+
+
+</div>
+
+### 🌟 About ?
+* Entries: **195,126**
+* Updated: **Sep 27, 2021, 03:00 PM (UTC)**
+* Expires: 1 day (frequency)
+* [Raw file](https://blocklist.fabston.dev/rules) with a [100% uptime](https://stats.uptimerobot.com/yk1zvsNvJA).
+<div align="center">
 
 <table>
 <tr>
