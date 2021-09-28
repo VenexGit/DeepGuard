@@ -15,11 +15,12 @@
 
 ### 🌟 About ?
 
-<div align="center">
+
 
 * Deep combines many reputable hosts files, merging them into a unified host file while removing duplicates. A variety of custom hosts files are provided , It is 
 
 
+<div align="center">
 
 <table>
 <tr>
@@ -29,11 +30,11 @@
 </tr>
 </table>
 
-
+<div align="center">
 
 ##  Block Lists ​⛔️
 
- Basic Info About Block List.
+Basic Info About Block List.
 
 Package | Description | Entries | HOSTs | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine | ALL PACKs |
 :------:|:-----------:|:-------:|:-----:|:----------:|:-------:|:-------:|:------------:|:------:|:---------:|:---:|:-------:|:-------:|:-------:|:-------:|:----------:|
