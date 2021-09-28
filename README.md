@@ -18,7 +18,7 @@
 
 * Deep combines many reputable hosts files, merging them into a unified host file while removing duplicates. A variety of custom hosts files are provided , It is 
 
-<div align="center">
+
 
 <table>
 <tr>
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-
+<div align="center">
 
 ##  Block Lists ​⛔️
  Basic Info About Block List.
