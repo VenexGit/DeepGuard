@@ -11,16 +11,22 @@
 <a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
+</div>
 
-The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
+## About ? 
+* The hosts file, called hosts, is a plain text file that all operating systems use to map hostnames to IP addresses. The host file is preferred over DNS, so if the domain name is resolved by the hosts file, the request will never leave your computer. and he is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy and more. It is updated monthly.
 
+<div align="center">
 <table>
+
 <tr>
 <td>
  - Updated Every Monthly -
 </td>
 </tr>
 </table>
+</div>
+<div align="center">
 
 ## Block Lists ​⛔️
 
