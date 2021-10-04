@@ -78,7 +78,7 @@ Unified | **785861** | [TXT](https://github.com/VenexGit/DeepGuard/releases/down
 | Pack Name | Description | Entries | Domains |
 |:---------:|:-----------:|:------------:|:-----------:|
 `ALL Domains` | Domain Names Registered | 700M + | [ZIP](https://mega.nz/folder/iqpSyBSB#o9CgAudVCtRx2I411aeAuw)  |
-`NEWLy Domains` | Domains Newly Registered | 117K - [`01/10/2021`](https://github.com/2ndalpha/gasmask) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
+`NEWLy Domains` | Domains Newly Registered | 156K - [`02/10/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-10-02.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
 
 ## Top-Level Domain 🎈
 
