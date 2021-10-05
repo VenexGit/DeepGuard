@@ -14,7 +14,7 @@
 </div>
 
 ## About ? 
-* DeepGuard is a Dns based filter list for blocking ads, malware, phising and other online garbage. It is updated every month
+* DeepGuard is A Comprehensive And Organized Block List To Block Ads, Malware, Fake News, Improve Security, Privacy, And More. It Is Updated Monthly.
 <div align="center">
 <table>
 
