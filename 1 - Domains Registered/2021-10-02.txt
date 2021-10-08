@@ -8,7 +8,6 @@
 # --------------------------------------------
 # Title: DeepGuard - Newly Registered Domains
 # Format: Domains
-# Entries: 207
 # License: MIT,
 # Source: github.com/VenexGit/DeepGuard
 # Developer & Maintainer: Venex [ VenexGit ]
