@@ -1,4 +1,4 @@
-  <div align="center">
+o  <div align="center">
 
  ![Cover](https://github.com/LogoGit/LogoGit/blob/main/LogoGit.png)
 
@@ -78,7 +78,7 @@ Unified | **785861** | [TXT](https://github.com/VenexGit/DeepGuard/releases/down
 | Pack Name | Description | Entries | Domains |
 |:---------:|:-----------:|:------------:|:-----------:|
 `ALL Domains` | Domain Names Registered | 700M + | [ZIP](https://drive.google.com/drive/folders/13e4GpMF9C3kgnBRsK56fXDQPfez4oyCz?usp=sharing)  |
-`NEWLy Domains` | Domains Newly Registered | 135k - [`12/10/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-10-12.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
+`NEWLy Domains` | Domains Newly Registered | 98k - [`12/10/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-10-12.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
 
 ## Top-Level Domain 🎈
 
