@@ -1,4 +1,4 @@
-o  <div align="center">
+ <div align="center">
 
  ![Cover](https://github.com/LogoGit/LogoGit/blob/main/LogoGit.png)
 
