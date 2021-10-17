@@ -1,6 +1,6 @@
  <div align="center">
 
- ![Cover](https://github.com/LogoGit/LogoGit/blob/main/LogoGit.png)
+ ![Cover](https://f.top4top.io/p_2116x5xni0.png)
 
 </div>
  <div align="center">
