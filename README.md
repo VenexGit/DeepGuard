@@ -26,7 +26,6 @@
 </div>
 <div align="center">
 
-
 ## Block List ​⛔️
 
 Basic Info About Block List.
@@ -48,6 +47,7 @@ Basic Info About White List.
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------------:|:-------:|:---:|:-------:|
 Basic | **59654**  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Domains.txt) (1M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Adblock) (1M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Adguard) (1M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/DnsMasq.conf) (2M) | [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/DnsMasq_Ipv6.conf) (1M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Unbound.conf) (2M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Rpz.txt) (1M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/One_Line.txt) (1M) |
 Unified | **783512** | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Domains.txt) (12M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Adblock) (14M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Adguard) (15M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/DnsMasq.conf) (25M) | [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/DnsMasq_Ipv6.conf) (22M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Unbound.conf) (36M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Rpz.txt) (18M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/One_Line.txt) (12M) |
+
 
 
 
