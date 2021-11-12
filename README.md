@@ -5,9 +5,9 @@
 </div>
  <div align="center">
 
-<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
-<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 01, 2021-red.svg?longCache=true&style=flat-square"></a>
-<a href="https://github.com/VenexGit/DeepGuard"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 01, 2021-red.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
 </div>
@@ -108,4 +108,4 @@ DeepGuard Block Lists are basically `blacklists` files to block access to domain
 
 Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
-<p align="center"><a href="https://github.com/VenexGit" target="_blank"><img src="https://img.shields.io/badge/ＶＥＮＥＸ-新 ドラゴン-7580f7.svg?longCache=true&style=flat-square"></a><p>
+<p align="center"><a href="https://t.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/ＶＥＮＥＸ-新 ドラゴン-7580f7.svg?longCache=true&style=flat-square"></a><p>
