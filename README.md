@@ -5,9 +5,9 @@
 </div>
  <div align="center">
 
-<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
-<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 01, 2021-red.svg?longCache=true&style=flat-square"></a>
-<a href="https://github.com/VenexGit/DeepGuard/"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 01, 2021-red.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
 </div>
