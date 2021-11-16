@@ -1,6 +1,6 @@
  <div align="center">
 
- ![Cover](https://f.top4top.io/p_2116x5xni0.png)
+ ![Cover](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/Logo.png)
 
 </div>
  <div align="center">
