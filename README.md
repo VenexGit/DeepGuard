@@ -6,7 +6,7 @@
  <div align="center">
 
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Version-1.1-orange.svg?longCache=true&style=flat-square"></a>
-<a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 01, 2021-red.svg?longCache=true&style=flat-square"></a>
+<a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 17, 2021-red.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
@@ -76,7 +76,7 @@ Unified | **783446** | [TXT](https://github.com/VenexGit/DeepGuard/releases/down
 | Pack Name | Description | Entries | Domains |
 |:---------:|:-----------:|:------------:|:-----------:|
 `ALL Domains` | Domain Names Registered | 700M + | [ZIP](https://drive.google.com/drive/folders/13e4GpMF9C3kgnBRsK56fXDQPfez4oyCz?usp=sharing)  |
-`NEWLy Domains` | Domains Newly Registered | 158K - [`10/11/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-10-20.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
+`NEWLy Domains` | Domains Newly Registered | 158K - [`17/11/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-11-17.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
 
 ## Top-Level Domain 🎈
 
