@@ -1,11 +1,3 @@
-# --------------------------------------------
-#           [ D E E P - G U A R D ] 
-# --------------------------------------------
-#         Let's make an annoyance free
-#       better open internet. Altogether.
-# --------------------------------------------
-# P A C K  D E T A I L S
-# --------------------------------------------
 # Title: DeepGuard - URLs Sources
 # Format: URLs
 # Description: The Sources Used In BlockList
@@ -14,7 +6,7 @@
 # Source: github.com/VenexGit/DeepGuard
 # Developer & Maintainer: Venex [ VenexGit ]
 # -------------------------------------------- 
-# D E E P G U A R D -  B E G I N S 
+#    D E E P G U A R D -  B E G I N S 
 # -------------------------------------------- 
 
 https://raw.githubusercontent.com/import-external-sources/hosts-sources/master/data/mitchellkrogza/the-big-list-of-hacked-malware-web-sites/domain.list
