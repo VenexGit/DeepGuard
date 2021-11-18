@@ -20,8 +20,6 @@
 
 ## Block List ​⛔️
 
-Basic Info About Block List.
-
 Package | Entries | HOSTs | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine |
 :-----------:|:-------:|:-----:|:----------:|:-------:|:-------:|:------------:|:------:|:---------:|:---:|:-------:|:-------:|:-------:|:-------:|
 BluGo | **169494** | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/hosts) (5M)  | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Hosts_Ipv6) (3M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Domains.txt) (3M)  | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DnsMasq.conf) (6M)| [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DnsMasq_Ipv6.conf) (5M)  | [MAGISK](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DeepGuard_Magisk.zip) (1M)  | [TWRP](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DeepGuard_Flashable.zip) (1M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Rpz.txt) (4M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Adblock) (3M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Adguard) (4M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Unbound.conf) (8M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/One_Line.txt) (3M) |
@@ -32,8 +30,6 @@ Ultimate | **1692728** | [FILE](https://github.com/VenexGit/DeepGuard/releases/d
 Unified | **5153383** | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Unified/hosts) (156M)  | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Hosts_Ipv6) (122M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Domains.txt) (107M)  | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Unified/DnsMasq.conf) (205M)| [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/Unified/DnsMasq_Ipv6.conf) (176M)  | [MAGISK](https://github.com/VenexGit/DeepGuard/releases/download/Unified/DeepGuard_Magisk.zip) (28M)  | [TWRP](https://github.com/VenexGit/DeepGuard/releases/download/Unified/DeepGuard_Flashable.zip) (28M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Rpz.txt) (146M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Adblock) (122M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Adguard) (131M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Unified/Unbound.conf) (264M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Unified/One_Line.txt) (107M) |
 
 ## White List 🛡
-
-Basic Info About White List.
 
 | Package | Entries | Domains | AdBlock | AdGuard | DNSMasq | DNSMasq IPV6 | Unbound | RPZ | OneLine |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------------:|:-------:|:---:|:-------:|
