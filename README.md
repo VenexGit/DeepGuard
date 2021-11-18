@@ -11,18 +11,10 @@
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
 
 </div>
-
-## About ? 
-* DeepGuard is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy, and more. it is updated monthly.
 <div align="center">
-<table>
 
-<tr>
-<td>
- - Updated Every Monthly -
-</td>
-</tr>
-</table>
+ <br> <sup>`UPDATED EVERY MONTHLY ❤️`</sup>
+
 </div>
 <div align="center">
 
@@ -31,7 +23,7 @@
 Basic Info About Block List.
 
 Package | Entries | HOSTs | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine |
-:------:|:-----------:|:-------:|:-----:|:----------:|:-------:|:-------:|:------------:|:------:|:---------:|:---:|:-------:|:-------:|:-------:|:-------:|
+:-----------:|:-------:|:-----:|:----------:|:-------:|:-------:|:------------:|:------:|:---------:|:---:|:-------:|:-------:|:-------:|:-------:|
 BluGo | **169494** | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/hosts) (5M)  | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Hosts_Ipv6) (3M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Domains.txt) (3M)  | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DnsMasq.conf) (6M)| [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DnsMasq_Ipv6.conf) (5M)  | [MAGISK](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DeepGuard_Magisk.zip) (1M)  | [TWRP](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/DeepGuard_Flashable.zip) (1M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Rpz.txt) (4M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Adblock) (3M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Adguard) (4M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/Unbound.conf) (8M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/BluGo/One_Line.txt) (3M) |
 Basic | **705327** | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Basic/hosts) (19M)  | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Hosts_Ipv6) (14M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Domains.txt) (12M)  | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Basic/DnsMasq.conf) (26M)| [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/Basic/DnsMasq_Ipv6.conf) (22M)  | [MAGISK](https://github.com/VenexGit/DeepGuard/releases/download/Basic/DeepGuard_Magisk.zip) (3M)  | [TWRP](https://github.com/VenexGit/DeepGuard/releases/download/Basic/DeepGuard_Flashable.zip) (4M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Rpz.txt) (18M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Adblock) (14M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Adguard) (16M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Basic/Unbound.conf) (34M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Basic/One_Line.txt) (12M) | 
 Porn <br> <sup>`BETA`</sup> | **2998796** | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/hosts) (80M)  | [FILE](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Hosts_Ipv6) (60M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Domains.txt) (51M)  | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/DnsMasq.conf) (109M)| [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/DnsMasq_Ipv6.conf) (91M)  | [MAGISK](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/DeepGuard_Magisk.zip) (15M)  | [TWRP](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/DeepGuard_Flashable.zip) (15M)  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Rpz.txt) (74M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Adblock) (60M)  | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Adguard) (66M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/Unbound.conf) (143M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/Porn_Beta/One_Line.txt) (51M) 
