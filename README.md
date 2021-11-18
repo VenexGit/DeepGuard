@@ -22,6 +22,9 @@
 
 ## Block List ​⛔️
 
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Basic Info About Block List.
 
 Package | Entries | HOSTs<br> <sup>`127.0.0.1`</sup> | HOSTs<br> <sup>`0.0.0.0`</sup> | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine |
