@@ -15,15 +15,6 @@
 ## About ? 
 * DeepGuard is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy, and more. it is updated monthly.
 <div align="center">
-<table>
-
-<tr>
-<td>
- - Updated Every Monthly -
-</td>
-</tr>
-</table>
-</div>
 <div align="center">
 
 ## Block List ​⛔️
