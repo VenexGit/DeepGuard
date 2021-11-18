@@ -1,10 +1,9 @@
 # -------------------------------------------- 
 #             D E E P G U A R D 
 # -------------------------------------------- 
-# Title: DeepGuard - TLD  _  2ND * LEVEL 
-# Format: TLD
-# Description: Second Level OF Top - Level Domain
-# Entries: 8864
+# Title: DeepGuard - Tld - 2st - level
+# Format: TXT
+# Description: Second Level Of Top - Level Domain
 # License: MIT,
 # Source: github.com/VenexGit/DeepGuard
 # Developer & Maintainer: Venex [ VenexGit ]
