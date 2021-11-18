@@ -9,6 +9,8 @@
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 17, 2021-red.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square"></a>
+ <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/Telegram-Contact Me-blue.svg?longCache=true&style=flat-square"></a>
+
 
 </div>
 
@@ -88,4 +90,4 @@ All Levels | All Levels `TLD` | **13248** | [RAW](https://raw.githubusercontent.
 
 Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
-<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-DONATE--ME-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p><p align="center"><a href="https://t.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-CONTACT--ME-red?logo=telegram&logoColor=white&style=for-the-badge"></a><p></a><p>
+<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-DONATE--ME-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p><p align="center"></a><p>
