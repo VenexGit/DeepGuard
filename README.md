@@ -82,14 +82,6 @@ All Levels | All Levels `TLD` | **13248** | [RAW](https://raw.githubusercontent.
 
 </div>
 
-## Support Me
-
-* Maintaining a quality blocking project takes a lot of time. DeepGuard is completely independently funded. We fight for our users. This does mean
-however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving DeepGuard rather than dealing with distractions.
-
-* This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
-
-<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p>
 
 
 ## License
@@ -97,3 +89,5 @@ however that we also have to spend our owns to pay the bills. This is where you 
 Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
 <p align="center"><a href="https://t.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/ＶＥＮＥＸ-新 ドラゴン-7580f7.svg?longCache=true&style=flat-square"></a><p>
+<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-NOW--ACCEPTING-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p>
+
