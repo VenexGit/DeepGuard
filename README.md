@@ -9,7 +9,7 @@
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Update-Nov 17, 2021-red.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/releases"><img alt="Code style: black" src="https://img.shields.io/badge/Status-Official-green.svg?longCache=true&style=flat-square"></a>
 <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/License-MIT-yellow.svg?longCache=true&style=flat-square"></a>
- <a href="https://github.com/VenexGit/DeepGuard/blob/main/LICENSE"><img alt="Code style: black" src="https://img.shields.io/badge/Telegram-Contact Me-blue.svg?longCache=true&style=flat-square"></a>
+ <a href="https://t.me/WizVenex"><img alt="Code style: black" src="https://img.shields.io/badge/Telegram-Contact Me-blue.svg?longCache=true&style=flat-square"></a>
 
 
 </div>
