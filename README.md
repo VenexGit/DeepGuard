@@ -13,7 +13,7 @@
 </div>
 
 ## About ? 
-* DeepGuard is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy, and more. it is updated monthly.
+* DeepGuard is a comprehensive and organized block list to block ads, malware, fake news, improve security, privacy, and more. it is <br> <sup>`Updated Monthly. ♥️`</sup>
 <div align="center">
 <div align="center">
 
