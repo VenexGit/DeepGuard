@@ -22,9 +22,6 @@
 
 ## Block List ​⛔️
 
-
-![Alt Text](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/20211118_213304.gif)
-
 Basic Info About Block List.
 
 Package | Entries | HOSTs<br> <sup>`127.0.0.1`</sup> | HOSTs<br> <sup>`0.0.0.0`</sup> | HOSTs IPV6 | Domains | DNSMasq | DNSMasq IPV6 | Magisk | Flashable | RPZ | AdBlock | AdGuard | Unbound | OneLine |
