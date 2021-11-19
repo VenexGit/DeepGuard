@@ -1,18 +1,11 @@
-# --------------------------------------------
-#           [ D E E P - G U A R D ] 
-# --------------------------------------------
-#         Let's make an annoyance free
-#       better open internet. Altogether.
-# --------------------------------------------
-# P A C K  D E T A I L S
-# --------------------------------------------
+# -------------------------------------------- 
+#             D E E P G U A R D 
+# -------------------------------------------- 
 # Title: DeepGuard - Newly Registered Domains
 # Format: Domains
 # License: MIT,
 # Source: github.com/VenexGit/DeepGuard
 # Developer & Maintainer: Venex [ VenexGit ]
-# -------------------------------------------- 
-# D E E P G U A R D -  B E G I N S 
 # -------------------------------------------- 
 
 0-8-15.ltd
