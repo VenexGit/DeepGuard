@@ -40,8 +40,8 @@ Maximum | **5153383** | [FILE](https://github.com/VenexGit/DeepGuard/releases/do
 
 Basic Info About White List.
 
-| Package | Entries | Domains | AdBlock | AdGuard | DNSMasq | DNSMasq IPV6 | Unbound | RPZ | OneLine |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------------:|:-------:|:---:|:-------:|
+| Package | Entries | Domains | AdBlock | AdGuard | DNSMasq <br> <sup>`127.0.0.1`</sup> | DNSMasq <br> <sup>`0.0.0.0`</sup> | DNSMasq IPV6 | Unbound | RPZ | OneLine |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:------------:|:-------:|:---:|:-------:|:-------:|
 Basic | **59644**  | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Domains.txt) (996K) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Adblock) (1M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Adguard) (1M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/DnsMasq.conf) (2M) | [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/DnsMasq_Ipv6.conf) (1M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Unbound.conf) (2M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/Rpz.txt) (1M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Basic/One_Line.txt) (996K) |
 Unified | **783441** | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Domains.txt) (12M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Adblock) (14M) | [FILTER](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Adguard) (15M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/DnsMasq.conf) (27M) | [CONF IPV6](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/DnsMasq_Ipv6.conf) (22M) | [CONF](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Unbound.conf) (36M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/Rpz.txt) (18M) | [TXT](https://github.com/VenexGit/DeepGuard/releases/download/WT-Unified/One_Line.txt) (12M) |
 
