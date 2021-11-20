@@ -93,4 +93,4 @@ All Levels | All Levels `TLD` | **13248** | [RAW](https://raw.githubusercontent.
 
 Content of the DeepGuard is licensed under a [MIT License](https://github.com/VenexGit/DeepGuard/blob/main/LICENSE).
 
-<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-DONATE--ME-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p><p align="center"></a><p>
+<p align="center"><a href="https://paypal.me/WizVenex" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-SUPPORT--ME-blue?logo=paypal&logoColor=white&style=for-the-badge"></a><p><p align="center"></a><p>
