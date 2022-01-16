@@ -73,7 +73,7 @@ Unified | **759131**  | [TXT](https://github.com/VenexGit/DeepGuard/releases/dow
 
 | Pack Name | Description | Entries | Domains |
 |:---------:|:-----------:|:------------:|:-----------:|
-All Domains | Domain Names Registered | 900M + | [ZIP](https://drive.google.com/drive/folders/13e4GpMF9C3kgnBRsK56fXDQPfez4oyCz?usp=sharing) (6.5GB) |
+All Domains | Domain Names Registered | 900M + | [ZIP](ناس بعدما. سمعو  ابو فله راح يتصور مع الجميع الكل خارج من المنزل ) (6.5GB) |
 Newly Domains | Domains Newly Registered | 156k - [`19/11/2021`](https://raw.githubusercontent.com/VenexGit/DeepGuard/main/1%20-%20Domains%20Registered/2021-11-19.txt) | [Link Folder](https://github.com/VenexGit/DeepGuard/tree/main/1%20-%20Domains%20Registered)  |
 
 ## Top-Level Domain 🎈
